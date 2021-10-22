@@ -1,4 +1,4 @@
-{
+[{
             "title": "The Shawshank Redemption",
             "originalTitle": "",
             "year": "1994",
@@ -10,7 +10,7 @@
             "writers": [{
                 "name": "Stephen King",
                 "id": "nm0000175"
-            } {
+            },{
                 "name": "Frank Darabont",
                 "id": "nm0001104"
             }],
@@ -29,8 +29,7 @@
             "votes": "1,754,641",
             "type": "Movie",
             "ranking": 1
-}
-{
+},{
             "title": "The Godfather",
             "originalTitle": "",
             "year": "1972",
@@ -42,7 +41,7 @@
             "writers": [{
                 "name": "Mario Puzo",
                 "id": "nm0701374"
-            } {
+            },{
                 "name": "Francis Ford Coppola",
                 "id": "nm0000338"
             }],
@@ -61,8 +60,7 @@
             "votes": "1,198,410",
             "type": "Movie",
             "ranking": 2
-}
-{
+},{
             "title": "The Godfather: Part II",
             "originalTitle": "",
             "year": "1974",
@@ -74,7 +72,7 @@
             "writers": [{
                 "name": "Francis Ford Coppola",
                 "id": "nm0000338"
-            } {
+            },{
                 "name": "Mario Puzo",
                 "id": "nm0701374"
             }],
@@ -93,8 +91,7 @@
             "votes": "822,897",
             "type": "Movie",
             "ranking": 3
-}
-{
+},{
             "title": "The Dark Knight",
             "originalTitle": "",
             "year": "2008",
@@ -106,7 +103,7 @@
             "writers": [{
                 "name": "Jonathan Nolan",
                 "id": "nm0634300"
-            } {
+            },{
                 "name": "Christopher Nolan",
                 "id": "nm0634240"
             }],
@@ -125,8 +122,7 @@
             "votes": "1,737,929",
             "type": "Movie",
             "ranking": 4
-}
-{
+},{
             "title": "12 Angry Men",
             "originalTitle": "",
             "year": "1957",
@@ -138,7 +134,7 @@
             "writers": [{
                 "name": "Reginald Rose",
                 "id": "nm0741627"
-            } {
+            },{
                 "name": "Reginald Rose",
                 "id": "nm0741627"
             }],
@@ -156,8 +152,7 @@
             "votes": "470,587",
             "type": "Movie",
             "ranking": 5
-}
-{
+},{
             "title": "Schindler's List",
             "originalTitle": "",
             "year": "1993",
@@ -169,7 +164,7 @@
             "writers": [{
                 "name": "Thomas Keneally",
                 "id": "nm0447745"
-            } {
+            },{
                 "name": "Steven Zaillian",
                 "id": "nm0001873"
             }],
@@ -188,8 +183,7 @@
             "votes": "899,029",
             "type": "Movie",
             "ranking": 6
-}
-{
+},{
             "title": "Pulp Fiction",
             "originalTitle": "",
             "year": "1994",
@@ -201,7 +195,7 @@
             "writers": [{
                 "name": "Quentin Tarantino",
                 "id": "nm0000233"
-            } {
+            },{
                 "name": "Roger Avary",
                 "id": "nm0000812"
             }],
@@ -220,8 +214,7 @@
             "votes": "1,374,002",
             "type": "Movie",
             "ranking": 7
-}
-{
+},{
             "title": "The Lord of the Rings: The Return of the King",
             "originalTitle": "",
             "year": "2003",
@@ -233,7 +226,7 @@
             "writers": [{
                 "name": "J.R.R. Tolkien",
                 "id": "nm0866058"
-            } {
+            },{
                 "name": "Fran Walsh",
                 "id": "nm0909638"
             }],
@@ -252,8 +245,7 @@
             "votes": "1,260,200",
             "type": "Movie",
             "ranking": 8
-}
-{
+},{
             "title": "The Good, the Bad and the Ugly",
             "originalTitle": "Il buono, il brutto, il cattivo",
             "year": "1966",
@@ -265,7 +257,7 @@
             "writers": [{
                 "name": "Luciano Vincenzoni",
                 "id": "nm0898812"
-            } {
+            },{
                 "name": "Sergio Leone",
                 "id": "nm0001466"
             }],
@@ -284,8 +276,7 @@
             "votes": "521,889",
             "type": "Movie",
             "ranking": 9
-}
-{
+},{
             "title": "Fight Club",
             "originalTitle": "",
             "year": "1999",
@@ -297,7 +288,7 @@
             "writers": [{
                 "name": "Chuck Palahniuk",
                 "id": "nm0657333"
-            } {
+            },{
                 "name": "Jim Uhls",
                 "id": "nm0880243"
             }],
@@ -316,8 +307,7 @@
             "votes": "1,401,949",
             "type": "Movie",
             "ranking": 10
-}
-{
+},{
             "title": "The Lord of the Rings: The Fellowship of the Ring",
             "originalTitle": "",
             "year": "2001",
@@ -329,7 +319,7 @@
             "writers": [{
                 "name": "J.R.R. Tolkien",
                 "id": "nm0866058"
-            } {
+            },{
                 "name": "Fran Walsh",
                 "id": "nm0909638"
             }],
@@ -348,8 +338,7 @@
             "votes": "1,282,307",
             "type": "Movie",
             "ranking": 11
-}
-{
+},{
             "title": "Star Wars: Episode V - The Empire Strikes Back",
             "originalTitle": "",
             "year": "1980",
@@ -361,7 +350,7 @@
             "writers": [{
                 "name": "Leigh Brackett",
                 "id": "nm0102824"
-            } {
+            },{
                 "name": "Lawrence Kasdan",
                 "id": "nm0001410"
             }],
@@ -380,8 +369,7 @@
             "votes": "874,787",
             "type": "Movie",
             "ranking": 12
-}
-{
+},{
             "title": "Forrest Gump",
             "originalTitle": "",
             "year": "1994",
@@ -393,7 +381,7 @@
             "writers": [{
                 "name": "Winston Groom",
                 "id": "nm0343165"
-            } {
+            },{
                 "name": "Eric Roth",
                 "id": "nm0744839"
             }],
@@ -412,8 +400,7 @@
             "votes": "1,308,114",
             "type": "Movie",
             "ranking": 13
-}
-{
+},{
             "title": "Inception",
             "originalTitle": "",
             "year": "2010",
@@ -441,8 +428,7 @@
             "votes": "1,529,339",
             "type": "Movie",
             "ranking": 14
-}
-{
+},{
             "title": "The Lord of the Rings: The Two Towers",
             "originalTitle": "",
             "year": "2002",
@@ -454,7 +440,7 @@
             "writers": [{
                 "name": "J.R.R. Tolkien",
                 "id": "nm0866058"
-            } {
+            },{
                 "name": "Fran Walsh",
                 "id": "nm0909638"
             }],
@@ -473,8 +459,7 @@
             "votes": "1,141,694",
             "type": "Movie",
             "ranking": 15
-}
-{
+},{
             "title": "One Flew Over the Cuckoo's Nest",
             "originalTitle": "",
             "year": "1975",
@@ -486,7 +471,7 @@
             "writers": [{
                 "name": "Lawrence Hauben",
                 "id": "nm0369142"
-            } {
+            },{
                 "name": "Bo Goldman",
                 "id": "nm0325743"
             }],
@@ -505,8 +490,7 @@
             "votes": "704,065",
             "type": "Movie",
             "ranking": 16
-}
-{
+},{
             "title": "Goodfellas",
             "originalTitle": "",
             "year": "1990",
@@ -518,7 +502,7 @@
             "writers": [{
                 "name": "Nicholas Pileggi",
                 "id": "nm0683380"
-            } {
+            },{
                 "name": "Nicholas Pileggi",
                 "id": "nm0683380"
             }],
@@ -537,8 +521,7 @@
             "votes": "756,557",
             "type": "Movie",
             "ranking": 17
-}
-{
+},{
             "title": "The Matrix",
             "originalTitle": "",
             "year": "1999",
@@ -546,14 +529,14 @@
             "directors": [{
                 "name": "Lana Wachowski",
                 "id": "nm0905154"
-            } {
+            },{
                 "name": "Lilly Wachowski",
                 "id": "nm0905152"
             }],
             "writers": [{
                 "name": "Lilly Wachowski",
                 "id": "nm0905152"
-            } {
+            },{
                 "name": "Lana Wachowski",
                 "id": "nm0905154"
             }],
@@ -572,8 +555,7 @@
             "votes": "1,263,189",
             "type": "Movie",
             "ranking": 18
-}
-{
+},{
             "title": "Seven Samurai",
             "originalTitle": "Shichinin no samurai",
             "year": "1954",
@@ -585,7 +567,7 @@
             "writers": [{
                 "name": "Akira Kurosawa",
                 "id": "nm0000041"
-            } {
+            },{
                 "name": "Shinobu Hashimoto",
                 "id": "nm0368074"
             }],
@@ -604,8 +586,7 @@
             "votes": "237,519",
             "type": "Movie",
             "ranking": 19
-}
-{
+},{
             "title": "Star Wars: Episode IV - A New Hope",
             "originalTitle": "Star Wars",
             "year": "1977",
@@ -633,8 +614,7 @@
             "votes": "948,582",
             "type": "Movie",
             "ranking": 20
-}
-{
+},{
             "title": "City of God",
             "originalTitle": "Cidade de Deus",
             "year": "2002",
@@ -642,14 +622,14 @@
             "directors": [{
                 "name": "Fernando Meirelles",
                 "id": "nm0576987"
-            } {
+            },{
                 "name": "Kátia Lund",
                 "id": "nm0526199"
             }],
             "writers": [{
                 "name": "Paulo Lins",
                 "id": "nm0513130"
-            } {
+            },{
                 "name": "Bráulio Mantovani",
                 "id": "nm1130251"
             }],
@@ -668,8 +648,7 @@
             "votes": "551,845",
             "type": "Movie",
             "ranking": 21
-}
-{
+},{
             "title": "Se7en",
             "originalTitle": "",
             "year": "1995",
@@ -697,8 +676,7 @@
             "votes": "1,066,181",
             "type": "Movie",
             "ranking": 22
-}
-{
+},{
             "title": "La La Land",
             "originalTitle": "",
             "year": "2016",
@@ -726,8 +704,7 @@
             "votes": "47,482",
             "type": "Movie",
             "ranking": 23
-}
-{
+},{
             "title": "The Silence of the Lambs",
             "originalTitle": "",
             "year": "1991",
@@ -739,7 +716,7 @@
             "writers": [{
                 "name": "Thomas Harris",
                 "id": "nm0365383"
-            } {
+            },{
                 "name": "Ted Tally",
                 "id": "nm0848217"
             }],
@@ -758,8 +735,7 @@
             "votes": "926,364",
             "type": "Movie",
             "ranking": 24
-}
-{
+},{
             "title": "It's a Wonderful Life",
             "originalTitle": "",
             "year": "1946",
@@ -771,7 +747,7 @@
             "writers": [{
                 "name": "Frances Goodrich",
                 "id": "nm0329304"
-            } {
+            },{
                 "name": "Albert Hackett",
                 "id": "nm0352443"
             }],
@@ -789,8 +765,7 @@
             "votes": "289,761",
             "type": "Movie",
             "ranking": 25
-}
-{
+},{
             "title": "The Usual Suspects",
             "originalTitle": "",
             "year": "1995",
@@ -818,8 +793,7 @@
             "votes": "769,127",
             "type": "Movie",
             "ranking": 26
-}
-{
+},{
             "title": "Life Is Beautiful",
             "originalTitle": "La vita è bella",
             "year": "1997",
@@ -831,7 +805,7 @@
             "writers": [{
                 "name": "Vincenzo Cerami",
                 "id": "nm0148437"
-            } {
+            },{
                 "name": "Roberto Benigni",
                 "id": "nm0000905"
             }],
@@ -850,8 +824,7 @@
             "votes": "440,994",
             "type": "Movie",
             "ranking": 27
-}
-{
+},{
             "title": "Léon: The Professional",
             "originalTitle": "Léon",
             "year": "1994",
@@ -879,8 +852,7 @@
             "votes": "755,629",
             "type": "Movie",
             "ranking": 28
-}
-{
+},{
             "title": "Spirited Away",
             "originalTitle": "Sen to Chihiro no kamikakushi",
             "year": "2001",
@@ -908,8 +880,7 @@
             "votes": "440,135",
             "type": "Movie",
             "ranking": 29
-}
-{
+},{
             "title": "Saving Private Ryan",
             "originalTitle": "",
             "year": "1998",
@@ -937,8 +908,7 @@
             "votes": "918,247",
             "type": "Movie",
             "ranking": 30
-}
-{
+},{
             "title": "Once Upon a Time in the West",
             "originalTitle": "C'era una volta il West",
             "year": "1968",
@@ -950,7 +920,7 @@
             "writers": [{
                 "name": "Sergio Donati",
                 "id": "nm0006872"
-            } {
+            },{
                 "name": "Sergio Leone",
                 "id": "nm0001466"
             }],
@@ -969,8 +939,7 @@
             "votes": "224,699",
             "type": "Movie",
             "ranking": 31
-}
-{
+},{
             "title": "American History X",
             "originalTitle": "",
             "year": "1998",
@@ -998,8 +967,7 @@
             "votes": "811,180",
             "type": "Movie",
             "ranking": 32
-}
-{
+},{
             "title": "Interstellar",
             "originalTitle": "",
             "year": "2014",
@@ -1011,7 +979,7 @@
             "writers": [{
                 "name": "Jonathan Nolan",
                 "id": "nm0634300"
-            } {
+            },{
                 "name": "Christopher Nolan",
                 "id": "nm0634240"
             }],
@@ -1030,8 +998,7 @@
             "votes": "992,291",
             "type": "Movie",
             "ranking": 33
-}
-{
+},{
             "title": "Casablanca",
             "originalTitle": "",
             "year": "1942",
@@ -1043,7 +1010,7 @@
             "writers": [{
                 "name": "Julius J. Epstein",
                 "id": "nm0258493"
-            } {
+            },{
                 "name": "Philip G. Epstein",
                 "id": "nm0258525"
             }],
@@ -1061,8 +1028,7 @@
             "votes": "400,913",
             "type": "Movie",
             "ranking": 34
-}
-{
+},{
             "title": "Psycho",
             "originalTitle": "",
             "year": "1960",
@@ -1074,7 +1040,7 @@
             "writers": [{
                 "name": "Joseph Stefano",
                 "id": "nm0825010"
-            } {
+            },{
                 "name": "Robert Bloch",
                 "id": "nm0088645"
             }],
@@ -1092,8 +1058,7 @@
             "votes": "439,753",
             "type": "Movie",
             "ranking": 35
-}
-{
+},{
             "title": "City Lights",
             "originalTitle": "",
             "year": "1931",
@@ -1120,8 +1085,7 @@
             "votes": "113,688",
             "type": "Movie",
             "ranking": 36
-}
-{
+},{
             "title": "The Green Mile",
             "originalTitle": "",
             "year": "1999",
@@ -1133,7 +1097,7 @@
             "writers": [{
                 "name": "Stephen King",
                 "id": "nm0000175"
-            } {
+            },{
                 "name": "Frank Darabont",
                 "id": "nm0001104"
             }],
@@ -1152,8 +1116,7 @@
             "votes": "820,707",
             "type": "Movie",
             "ranking": 37
-}
-{
+},{
             "title": "Raiders of the Lost Ark",
             "originalTitle": "",
             "year": "1981",
@@ -1165,7 +1128,7 @@
             "writers": [{
                 "name": "Lawrence Kasdan",
                 "id": "nm0001410"
-            } {
+            },{
                 "name": "George Lucas",
                 "id": "nm0000184"
             }],
@@ -1184,8 +1147,7 @@
             "votes": "684,639",
             "type": "Movie",
             "ranking": 38
-}
-{
+},{
             "title": "The Intouchables",
             "originalTitle": "Intouchables",
             "year": "2011",
@@ -1193,14 +1155,14 @@
             "directors": [{
                 "name": "Olivier Nakache",
                 "id": "nm0619923"
-            } {
+            },{
                 "name": "Eric Toledano",
                 "id": "nm0865918"
             }],
             "writers": [{
                 "name": "Olivier Nakache",
                 "id": "nm0619923"
-            } {
+            },{
                 "name": "Eric Toledano",
                 "id": "nm0865918"
             }],
@@ -1219,8 +1181,7 @@
             "votes": "532,864",
             "type": "Movie",
             "ranking": 39
-}
-{
+},{
             "title": "Modern Times",
             "originalTitle": "",
             "year": "1936",
@@ -1248,8 +1209,7 @@
             "votes": "150,335",
             "type": "Movie",
             "ranking": 40
-}
-{
+},{
             "title": "Rear Window",
             "originalTitle": "",
             "year": "1954",
@@ -1261,7 +1221,7 @@
             "writers": [{
                 "name": "John Michael Hayes",
                 "id": "nm0371088"
-            } {
+            },{
                 "name": "Cornell Woolrich",
                 "id": "nm0941280"
             }],
@@ -1279,8 +1239,7 @@
             "votes": "328,490",
             "type": "Movie",
             "ranking": 41
-}
-{
+},{
             "title": "The Departed",
             "originalTitle": "",
             "year": "2006",
@@ -1292,7 +1251,7 @@
             "writers": [{
                 "name": "William Monahan",
                 "id": "nm1184258"
-            } {
+            },{
                 "name": "Alan Mak",
                 "id": "nm0538320"
             }],
@@ -1311,8 +1270,7 @@
             "votes": "907,764",
             "type": "Movie",
             "ranking": 42
-}
-{
+},{
             "title": "The Pianist",
             "originalTitle": "",
             "year": "2002",
@@ -1324,7 +1282,7 @@
             "writers": [{
                 "name": "Ronald Harwood",
                 "id": "nm0367838"
-            } {
+            },{
                 "name": "Wladyslaw Szpilman",
                 "id": "nm0844262"
             }],
@@ -1343,8 +1301,7 @@
             "votes": "521,698",
             "type": "Movie",
             "ranking": 43
-}
-{
+},{
             "title": "Terminator 2: Judgment Day",
             "originalTitle": "",
             "year": "1991",
@@ -1356,7 +1313,7 @@
             "writers": [{
                 "name": "James Cameron",
                 "id": "nm0000116"
-            } {
+            },{
                 "name": "William Wisher Jr.",
                 "id": "nm0936537"
             }],
@@ -1375,8 +1332,7 @@
             "votes": "771,089",
             "type": "Movie",
             "ranking": 44
-}
-{
+},{
             "title": "Back to the Future",
             "originalTitle": "",
             "year": "1985",
@@ -1388,7 +1344,7 @@
             "writers": [{
                 "name": "Robert Zemeckis",
                 "id": "nm0000709"
-            } {
+            },{
                 "name": "Bob Gale",
                 "id": "nm0301826"
             }],
@@ -1407,8 +1363,7 @@
             "votes": "764,181",
             "type": "Movie",
             "ranking": 45
-}
-{
+},{
             "title": "Whiplash",
             "originalTitle": "",
             "year": "2014",
@@ -1436,8 +1391,7 @@
             "votes": "440,072",
             "type": "Movie",
             "ranking": 46
-}
-{
+},{
             "title": "Gladiator",
             "originalTitle": "",
             "year": "2000",
@@ -1449,7 +1403,7 @@
             "writers": [{
                 "name": "David Franzoni",
                 "id": "nm0291905"
-            } {
+            },{
                 "name": "David Franzoni",
                 "id": "nm0291905"
             }],
@@ -1468,8 +1422,7 @@
             "votes": "1,020,693",
             "type": "Movie",
             "ranking": 47
-}
-{
+},{
             "title": "Memento",
             "originalTitle": "",
             "year": "2000",
@@ -1481,7 +1434,7 @@
             "writers": [{
                 "name": "Christopher Nolan",
                 "id": "nm0634240"
-            } {
+            },{
                 "name": "Jonathan Nolan",
                 "id": "nm0634300"
             }],
@@ -1500,8 +1453,7 @@
             "votes": "876,844",
             "type": "Movie",
             "ranking": 48
-}
-{
+},{
             "title": "Apocalypse Now",
             "originalTitle": "",
             "year": "1979",
@@ -1513,7 +1465,7 @@
             "writers": [{
                 "name": "John Milius",
                 "id": "nm0587518"
-            } {
+            },{
                 "name": "Francis Ford Coppola",
                 "id": "nm0000338"
             }],
@@ -1532,8 +1484,7 @@
             "votes": "465,820",
             "type": "Movie",
             "ranking": 49
-}
-{
+},{
             "title": "The Prestige",
             "originalTitle": "",
             "year": "2006",
@@ -1545,7 +1496,7 @@
             "writers": [{
                 "name": "Jonathan Nolan",
                 "id": "nm0634300"
-            } {
+            },{
                 "name": "Christopher Nolan",
                 "id": "nm0634240"
             }],
@@ -1564,8 +1515,7 @@
             "votes": "880,511",
             "type": "Movie",
             "ranking": 50
-}
-{
+},{
             "title": "The Lion King",
             "originalTitle": "",
             "year": "1994",
@@ -1573,14 +1523,14 @@
             "directors": [{
                 "name": "Roger Allers",
                 "id": "nm0021249"
-            } {
+            },{
                 "name": "Rob Minkoff",
                 "id": "nm0591450"
             }],
             "writers": [{
                 "name": "Irene Mecchi",
                 "id": "nm0575293"
-            } {
+            },{
                 "name": "Jonathan Roberts",
                 "id": "nm0731271"
             }],
@@ -1599,8 +1549,7 @@
             "votes": "674,487",
             "type": "Movie",
             "ranking": 51
-}
-{
+},{
             "title": "Alien",
             "originalTitle": "",
             "year": "1979",
@@ -1612,7 +1561,7 @@
             "writers": [{
                 "name": "Dan O'Bannon",
                 "id": "nm0639321"
-            } {
+            },{
                 "name": "Ronald Shusett",
                 "id": "nm0795953"
             }],
@@ -1631,8 +1580,7 @@
             "votes": "586,802",
             "type": "Movie",
             "ranking": 52
-}
-{
+},{
             "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
             "originalTitle": "",
             "year": "1964",
@@ -1644,7 +1592,7 @@
             "writers": [{
                 "name": "Stanley Kubrick",
                 "id": "nm0000040"
-            } {
+            },{
                 "name": "Terry Southern",
                 "id": "nm0816143"
             }],
@@ -1663,8 +1611,7 @@
             "votes": "354,256",
             "type": "Movie",
             "ranking": 53
-}
-{
+},{
             "title": "Sunset Boulevard",
             "originalTitle": "Sunset Blvd.",
             "year": "1950",
@@ -1676,7 +1623,7 @@
             "writers": [{
                 "name": "Charles Brackett",
                 "id": "nm0102818"
-            } {
+            },{
                 "name": "Billy Wilder",
                 "id": "nm0000697"
             }],
@@ -1694,8 +1641,7 @@
             "votes": "144,841",
             "type": "Movie",
             "ranking": 54
-}
-{
+},{
             "title": "The Great Dictator",
             "originalTitle": "",
             "year": "1940",
@@ -1722,8 +1668,7 @@
             "votes": "144,147",
             "type": "Movie",
             "ranking": 55
-}
-{
+},{
             "title": "The Lives of Others",
             "originalTitle": "Das Leben der Anderen",
             "year": "2006",
@@ -1751,8 +1696,7 @@
             "votes": "269,628",
             "type": "Movie",
             "ranking": 56
-}
-{
+},{
             "title": "Cinema Paradiso",
             "originalTitle": "Nuovo Cinema Paradiso",
             "year": "1988",
@@ -1764,7 +1708,7 @@
             "writers": [{
                 "name": "Giuseppe Tornatore",
                 "id": "nm0868153"
-            } {
+            },{
                 "name": "Giuseppe Tornatore",
                 "id": "nm0868153"
             }],
@@ -1783,8 +1727,7 @@
             "votes": "159,664",
             "type": "Movie",
             "ranking": 57
-}
-{
+},{
             "title": "Paths of Glory",
             "originalTitle": "",
             "year": "1957",
@@ -1796,7 +1739,7 @@
             "writers": [{
                 "name": "Stanley Kubrick",
                 "id": "nm0000040"
-            } {
+            },{
                 "name": "Calder Willingham",
                 "id": "nm0932229"
             }],
@@ -1814,8 +1757,7 @@
             "votes": "126,105",
             "type": "Movie",
             "ranking": 58
-}
-{
+},{
             "title": "Grave of the Fireflies",
             "originalTitle": "Hotaru no haka",
             "year": "1988",
@@ -1827,7 +1769,7 @@
             "writers": [{
                 "name": "Akiyuki Nosaka",
                 "id": "nm0636435"
-            } {
+            },{
                 "name": "Isao Takahata",
                 "id": "nm0847223"
             }],
@@ -1845,8 +1787,7 @@
             "votes": "146,741",
             "type": "Movie",
             "ranking": 59
-}
-{
+},{
             "title": "Django Unchained",
             "originalTitle": "",
             "year": "2012",
@@ -1874,8 +1815,7 @@
             "votes": "1,000,020",
             "type": "Movie",
             "ranking": 60
-}
-{
+},{
             "title": "The Shining",
             "originalTitle": "",
             "year": "1980",
@@ -1887,7 +1827,7 @@
             "writers": [{
                 "name": "Stephen King",
                 "id": "nm0000175"
-            } {
+            },{
                 "name": "Stanley Kubrick",
                 "id": "nm0000040"
             }],
@@ -1906,8 +1846,7 @@
             "votes": "636,364",
             "type": "Movie",
             "ranking": 61
-}
-{
+},{
             "title": "WALL·E",
             "originalTitle": "",
             "year": "2008",
@@ -1919,7 +1858,7 @@
             "writers": [{
                 "name": "Andrew Stanton",
                 "id": "nm0004056"
-            } {
+            },{
                 "name": "Pete Docter",
                 "id": "nm0230032"
             }],
@@ -1938,8 +1877,7 @@
             "votes": "750,145",
             "type": "Movie",
             "ranking": 62
-}
-{
+},{
             "title": "American Beauty",
             "originalTitle": "",
             "year": "1999",
@@ -1967,8 +1905,7 @@
             "votes": "851,642",
             "type": "Movie",
             "ranking": 63
-}
-{
+},{
             "title": "The Dark Knight Rises",
             "originalTitle": "",
             "year": "2012",
@@ -1980,7 +1917,7 @@
             "writers": [{
                 "name": "Jonathan Nolan",
                 "id": "nm0634300"
-            } {
+            },{
                 "name": "Christopher Nolan",
                 "id": "nm0634240"
             }],
@@ -1999,8 +1936,7 @@
             "votes": "1,186,776",
             "type": "Movie",
             "ranking": 64
-}
-{
+},{
             "title": "Princess Mononoke",
             "originalTitle": "Mononoke-hime",
             "year": "1997",
@@ -2028,8 +1964,7 @@
             "votes": "232,849",
             "type": "Movie",
             "ranking": 65
-}
-{
+},{
             "title": "Aliens",
             "originalTitle": "",
             "year": "1986",
@@ -2041,7 +1976,7 @@
             "writers": [{
                 "name": "James Cameron",
                 "id": "nm0000116"
-            } {
+            },{
                 "name": "David Giler",
                 "id": "nm0318429"
             }],
@@ -2060,8 +1995,7 @@
             "votes": "505,069",
             "type": "Movie",
             "ranking": 66
-}
-{
+},{
             "title": "Old Boy",
             "originalTitle": "Oldeuboi",
             "year": "2003",
@@ -2073,7 +2007,7 @@
             "writers": [{
                 "name": "Garon Tsuchiya",
                 "id": "nm1628380"
-            } {
+            },{
                 "name": "Nobuaki Minegishi",
                 "id": "nm2057405"
             }],
@@ -2092,8 +2026,7 @@
             "votes": "372,142",
             "type": "Movie",
             "ranking": 67
-}
-{
+},{
             "title": "Il était une fois en Amérique",
             "originalTitle": "Once Upon a Time in America",
             "year": "1984",
@@ -2105,7 +2038,7 @@
             "writers": [{
                 "name": "Harry Grey",
                 "id": "nm0340580"
-            } {
+            },{
                 "name": "Leonardo Benvenuti",
                 "id": "nm0073053"
             }],
@@ -2123,8 +2056,7 @@
             "votes": "229,927",
             "type": "Movie",
             "ranking": 68
-}
-{
+},{
             "title": "Citizen Kane",
             "originalTitle": "",
             "year": "1941",
@@ -2136,7 +2068,7 @@
             "writers": [{
                 "name": "Herman J. Mankiewicz",
                 "id": "nm0542534"
-            } {
+            },{
                 "name": "Orson Welles",
                 "id": "nm0000080"
             }],
@@ -2154,8 +2086,7 @@
             "votes": "307,946",
             "type": "Movie",
             "ranking": 69
-}
-{
+},{
             "title": "Das Boot",
             "originalTitle": "",
             "year": "1981",
@@ -2167,7 +2098,7 @@
             "writers": [{
                 "name": "Wolfgang Petersen",
                 "id": "nm0000583"
-            } {
+            },{
                 "name": "Lothar G. Buchheim",
                 "id": "nm0118164"
             }],
@@ -2186,8 +2117,7 @@
             "votes": "174,104",
             "type": "Movie",
             "ranking": 70
-}
-{
+},{
             "title": "Witness for the Prosecution",
             "originalTitle": "",
             "year": "1957",
@@ -2199,7 +2129,7 @@
             "writers": [{
                 "name": "Agatha Christie",
                 "id": "nm0002005"
-            } {
+            },{
                 "name": "Billy Wilder",
                 "id": "nm0000697"
             }],
@@ -2217,8 +2147,7 @@
             "votes": "66,896",
             "type": "Movie",
             "ranking": 71
-}
-{
+},{
             "title": "North by Northwest",
             "originalTitle": "",
             "year": "1959",
@@ -2245,8 +2174,7 @@
             "votes": "227,437",
             "type": "Movie",
             "ranking": 72
-}
-{
+},{
             "title": "Vertigo",
             "originalTitle": "",
             "year": "1958",
@@ -2258,7 +2186,7 @@
             "writers": [{
                 "name": "Alec Coppel",
                 "id": "nm0178785"
-            } {
+            },{
                 "name": "Samuel A. Taylor",
                 "id": "nm0853138"
             }],
@@ -2276,8 +2204,7 @@
             "votes": "259,727",
             "type": "Movie",
             "ranking": 73
-}
-{
+},{
             "title": "Star Wars: Episode VI - Return of the Jedi",
             "originalTitle": "",
             "year": "1983",
@@ -2289,7 +2216,7 @@
             "writers": [{
                 "name": "Lawrence Kasdan",
                 "id": "nm0001410"
-            } {
+            },{
                 "name": "George Lucas",
                 "id": "nm0000184"
             }],
@@ -2308,8 +2235,7 @@
             "votes": "714,706",
             "type": "Movie",
             "ranking": 74
-}
-{
+},{
             "title": "M",
             "originalTitle": "",
             "year": "1931",
@@ -2321,7 +2247,7 @@
             "writers": [{
                 "name": "Thea von Harbou",
                 "id": "nm0902376"
-            } {
+            },{
                 "name": "Fritz Lang",
                 "id": "nm0000485"
             }],
@@ -2339,8 +2265,7 @@
             "votes": "102,747",
             "type": "Movie",
             "ranking": 75
-}
-{
+},{
             "title": "Reservoir Dogs",
             "originalTitle": "",
             "year": "1992",
@@ -2352,7 +2277,7 @@
             "writers": [{
                 "name": "Quentin Tarantino",
                 "id": "nm0000233"
-            } {
+            },{
                 "name": "Roger Avary",
                 "id": "nm0000812"
             }],
@@ -2371,8 +2296,7 @@
             "votes": "691,215",
             "type": "Movie",
             "ranking": 76
-}
-{
+},{
             "title": "Braveheart",
             "originalTitle": "",
             "year": "1995",
@@ -2400,8 +2324,7 @@
             "votes": "763,357",
             "type": "Movie",
             "ranking": 77
-}
-{
+},{
             "title": "Amélie",
             "originalTitle": "Le fabuleux destin d'Amélie Poulain",
             "year": "2001",
@@ -2413,7 +2336,7 @@
             "writers": [{
                 "name": "Guillaume Laurant",
                 "id": "nm0491011"
-            } {
+            },{
                 "name": "Jean-Pierre Jeunet",
                 "id": "nm0000466"
             }],
@@ -2432,8 +2355,7 @@
             "votes": "554,407",
             "type": "Movie",
             "ranking": 78
-}
-{
+},{
             "title": "Requiem for a Dream",
             "originalTitle": "",
             "year": "2000",
@@ -2445,7 +2367,7 @@
             "writers": [{
                 "name": "Hubert Selby Jr.",
                 "id": "nm0782968"
-            } {
+            },{
                 "name": "Hubert Selby Jr.",
                 "id": "nm0782968"
             }],
@@ -2464,8 +2386,7 @@
             "votes": "594,668",
             "type": "Movie",
             "ranking": 79
-}
-{
+},{
             "title": "A Clockwork Orange",
             "originalTitle": "",
             "year": "1971",
@@ -2477,7 +2398,7 @@
             "writers": [{
                 "name": "Stanley Kubrick",
                 "id": "nm0000040"
-            } {
+            },{
                 "name": "Anthony Burgess",
                 "id": "nm0121256"
             }],
@@ -2496,8 +2417,7 @@
             "votes": "580,124",
             "type": "Movie",
             "ranking": 80
-}
-{
+},{
             "title": "Taxi Driver",
             "originalTitle": "",
             "year": "1976",
@@ -2525,8 +2445,7 @@
             "votes": "528,278",
             "type": "Movie",
             "ranking": 81
-}
-{
+},{
             "title": "Lawrence of Arabia",
             "originalTitle": "",
             "year": "1962",
@@ -2538,7 +2457,7 @@
             "writers": [{
                 "name": "T.E. Lawrence",
                 "id": "nm0493042"
-            } {
+            },{
                 "name": "Robert Bolt",
                 "id": "nm0004122"
             }],
@@ -2557,8 +2476,7 @@
             "votes": "200,129",
             "type": "Movie",
             "ranking": 82
-}
-{
+},{
             "title": "Double Indemnity",
             "originalTitle": "",
             "year": "1944",
@@ -2570,7 +2488,7 @@
             "writers": [{
                 "name": "Billy Wilder",
                 "id": "nm0000697"
-            } {
+            },{
                 "name": "Raymond Chandler",
                 "id": "nm0151452"
             }],
@@ -2588,8 +2506,7 @@
             "votes": "101,722",
             "type": "Movie",
             "ranking": 83
-}
-{
+},{
             "title": "Like Stars on Earth",
             "originalTitle": "Taare Zameen Par",
             "year": "2007",
@@ -2597,14 +2514,14 @@
             "directors": [{
                 "name": "Aamir Khan",
                 "id": "nm0451148"
-            } {
+            },{
                 "name": "Amole Gupte",
                 "id": "nm1244760"
             }],
             "writers": [{
                 "name": "Amole Gupte",
                 "id": "nm1244760"
-            } {
+            },{
                 "name": "Amole Gupte",
                 "id": "nm1244760"
             }],
@@ -2622,8 +2539,7 @@
             "votes": "93,579",
             "type": "Movie",
             "ranking": 84
-}
-{
+},{
             "title": "To Kill a Mockingbird",
             "originalTitle": "",
             "year": "1962",
@@ -2635,7 +2551,7 @@
             "writers": [{
                 "name": "Harper Lee",
                 "id": "nm0497369"
-            } {
+            },{
                 "name": "Horton Foote",
                 "id": "nm0285210"
             }],
@@ -2653,8 +2569,7 @@
             "votes": "223,875",
             "type": "Movie",
             "ranking": 85
-}
-{
+},{
             "title": "Eternal Sunshine of the Spotless Mind",
             "originalTitle": "",
             "year": "2004",
@@ -2666,7 +2581,7 @@
             "writers": [{
                 "name": "Charlie Kaufman",
                 "id": "nm0442109"
-            } {
+            },{
                 "name": "Michel Gondry",
                 "id": "nm0327273"
             }],
@@ -2685,8 +2600,7 @@
             "votes": "693,840",
             "type": "Movie",
             "ranking": 86
-}
-{
+},{
             "title": "Toy Story 3",
             "originalTitle": "",
             "year": "2010",
@@ -2698,7 +2612,7 @@
             "writers": [{
                 "name": "John Lasseter",
                 "id": "nm0005124"
-            } {
+            },{
                 "name": "Andrew Stanton",
                 "id": "nm0004056"
             }],
@@ -2717,8 +2631,7 @@
             "votes": "567,304",
             "type": "Movie",
             "ranking": 87
-}
-{
+},{
             "title": "Mon père et mon fils",
             "originalTitle": "Babam ve Oglum",
             "year": "2005",
@@ -2744,8 +2657,7 @@
             "votes": "40,743",
             "type": "Movie",
             "ranking": 88
-}
-{
+},{
             "title": "Amadeus",
             "originalTitle": "",
             "year": "1984",
@@ -2757,7 +2669,7 @@
             "writers": [{
                 "name": "Peter Shaffer",
                 "id": "nm0787323"
-            } {
+            },{
                 "name": "Peter Shaffer",
                 "id": "nm0787323"
             }],
@@ -2776,8 +2688,7 @@
             "votes": "281,226",
             "type": "Movie",
             "ranking": 89
-}
-{
+},{
             "title": "Tu ne tueras point",
             "originalTitle": "Hacksaw Ridge",
             "year": "2016",
@@ -2789,7 +2700,7 @@
             "writers": [{
                 "name": "Robert Schenkkan",
                 "id": "nm0770938"
-            } {
+            },{
                 "name": "Andrew Knight",
                 "id": "nm0460795"
             }],
@@ -2808,8 +2719,7 @@
             "votes": "46,225",
             "type": "Movie",
             "ranking": 90
-}
-{
+},{
             "title": "Full Metal Jacket",
             "originalTitle": "",
             "year": "1987",
@@ -2821,7 +2731,7 @@
             "writers": [{
                 "name": "Gustav Hasford",
                 "id": "nm0368007"
-            } {
+            },{
                 "name": "Stanley Kubrick",
                 "id": "nm0000040"
             }],
@@ -2840,8 +2750,7 @@
             "votes": "504,777",
             "type": "Movie",
             "ranking": 91
-}
-{
+},{
             "title": "The Sting",
             "originalTitle": "",
             "year": "1973",
@@ -2868,8 +2777,7 @@
             "votes": "182,333",
             "type": "Movie",
             "ranking": 92
-}
-{
+},{
             "title": "2001: A Space Odyssey",
             "originalTitle": "",
             "year": "1968",
@@ -2881,7 +2789,7 @@
             "writers": [{
                 "name": "Stanley Kubrick",
                 "id": "nm0000040"
-            } {
+            },{
                 "name": "Arthur C. Clarke",
                 "id": "nm0002009"
             }],
@@ -2900,8 +2808,7 @@
             "votes": "444,917",
             "type": "Movie",
             "ranking": 93
-}
-{
+},{
             "title": "Bicycle Thieves",
             "originalTitle": "Ladri di biciclette",
             "year": "1948",
@@ -2913,7 +2820,7 @@
             "writers": [{
                 "name": "Cesare Zavattini",
                 "id": "nm0953790"
-            } {
+            },{
                 "name": "Luigi Bartolini",
                 "id": "nm0059030"
             }],
@@ -2931,8 +2838,7 @@
             "votes": "98,960",
             "type": "Movie",
             "ranking": 94
-}
-{
+},{
             "title": "Toy Story",
             "originalTitle": "",
             "year": "1995",
@@ -2944,7 +2850,7 @@
             "writers": [{
                 "name": "John Lasseter",
                 "id": "nm0005124"
-            } {
+            },{
                 "name": "Pete Docter",
                 "id": "nm0230032"
             }],
@@ -2963,8 +2869,7 @@
             "votes": "650,660",
             "type": "Movie",
             "ranking": 95
-}
-{
+},{
             "title": "Singin' in the Rain",
             "originalTitle": "",
             "year": "1952",
@@ -2972,14 +2877,14 @@
             "directors": [{
                 "name": "Stanley Donen",
                 "id": "nm0002045"
-            } {
+            },{
                 "name": "Gene Kelly",
                 "id": "nm0000037"
             }],
             "writers": [{
                 "name": "Betty Comden",
                 "id": "nm0173679"
-            } {
+            },{
                 "name": "Adolph Green",
                 "id": "nm0337582"
             }],
@@ -2997,8 +2902,7 @@
             "votes": "157,077",
             "type": "Movie",
             "ranking": 96
-}
-{
+},{
             "title": "Snatch",
             "originalTitle": "",
             "year": "2000",
@@ -3026,8 +2930,7 @@
             "votes": "621,288",
             "type": "Movie",
             "ranking": 97
-}
-{
+},{
             "title": "Inglourious Basterds",
             "originalTitle": "",
             "year": "2009",
@@ -3035,7 +2938,7 @@
             "directors": [{
                 "name": "Quentin Tarantino",
                 "id": "nm0000233"
-            } {
+            },{
                 "name": "Eli Roth",
                 "id": "nm0744834"
             }],
@@ -3058,8 +2961,7 @@
             "votes": "924,288",
             "type": "Movie",
             "ranking": 98
-}
-{
+},{
             "title": "The Kid",
             "originalTitle": "",
             "year": "1921",
@@ -3086,8 +2988,7 @@
             "votes": "71,688",
             "type": "Movie",
             "ranking": 99
-}
-{
+},{
             "title": "Monty Python and the Holy Grail",
             "originalTitle": "",
             "year": "1975",
@@ -3095,14 +2996,14 @@
             "directors": [{
                 "name": "Terry Gilliam",
                 "id": "nm0000416"
-            } {
+            },{
                 "name": "Terry Jones",
                 "id": "nm0001402"
             }],
             "writers": [{
                 "name": "Graham Chapman",
                 "id": "nm0001037"
-            } {
+            },{
                 "name": "John Cleese",
                 "id": "nm0000092"
             }],
@@ -3121,8 +3022,7 @@
             "votes": "394,932",
             "type": "Movie",
             "ranking": 100
-}
-{
+},{
             "title": "L.A. Confidential",
             "originalTitle": "",
             "year": "1997",
@@ -3134,7 +3034,7 @@
             "writers": [{
                 "name": "James Ellroy",
                 "id": "nm0255278"
-            } {
+            },{
                 "name": "Brian Helgeland",
                 "id": "nm0001338"
             }],
@@ -3153,8 +3053,7 @@
             "votes": "427,631",
             "type": "Movie",
             "ranking": 101
-}
-{
+},{
             "title": "3 Idiots",
             "originalTitle": "",
             "year": "2009",
@@ -3166,7 +3065,7 @@
             "writers": [{
                 "name": "Rajkumar Hirani",
                 "id": "nm0386246"
-            } {
+            },{
                 "name": "Abhijat Joshi",
                 "id": "nm0430785"
             }],
@@ -3185,8 +3084,7 @@
             "votes": "224,500",
             "type": "Movie",
             "ranking": 102
-}
-{
+},{
             "title": "For a Few Dollars More",
             "originalTitle": "Per qualche dollaro in più",
             "year": "1965",
@@ -3198,7 +3096,7 @@
             "writers": [{
                 "name": "Sergio Leone",
                 "id": "nm0001466"
-            } {
+            },{
                 "name": "Fulvio Morsella",
                 "id": "nm0607694"
             }],
@@ -3216,8 +3114,7 @@
             "votes": "164,627",
             "type": "Movie",
             "ranking": 103
-}
-{
+},{
             "title": "Scarface",
             "originalTitle": "",
             "year": "1983",
@@ -3245,8 +3142,7 @@
             "votes": "557,898",
             "type": "Movie",
             "ranking": 104
-}
-{
+},{
             "title": "Rashomon",
             "originalTitle": "Rashômon",
             "year": "1950",
@@ -3258,7 +3154,7 @@
             "writers": [{
                 "name": "Ryûnosuke Akutagawa",
                 "id": "nm0015611"
-            } {
+            },{
                 "name": "Akira Kurosawa",
                 "id": "nm0000041"
             }],
@@ -3276,8 +3172,7 @@
             "votes": "106,970",
             "type": "Movie",
             "ranking": 105
-}
-{
+},{
             "title": "The Apartment",
             "originalTitle": "",
             "year": "1960",
@@ -3289,7 +3184,7 @@
             "writers": [{
                 "name": "Billy Wilder",
                 "id": "nm0000697"
-            } {
+            },{
                 "name": "I.A.L. Diamond",
                 "id": "nm0224634"
             }],
@@ -3307,8 +3202,7 @@
             "votes": "113,996",
             "type": "Movie",
             "ranking": 106
-}
-{
+},{
             "title": "The Hunt",
             "originalTitle": "Jagten",
             "year": "2012",
@@ -3320,7 +3214,7 @@
             "writers": [{
                 "name": "Tobias Lindholm",
                 "id": "nm2105585"
-            } {
+            },{
                 "name": "Thomas Vinterberg",
                 "id": "nm0899121"
             }],
@@ -3339,8 +3233,7 @@
             "votes": "182,152",
             "type": "Movie",
             "ranking": 107
-}
-{
+},{
             "title": "Indiana Jones and the Last Crusade",
             "originalTitle": "",
             "year": "1989",
@@ -3352,7 +3245,7 @@
             "writers": [{
                 "name": "Jeffrey Boam",
                 "id": "nm0090151"
-            } {
+            },{
                 "name": "George Lucas",
                 "id": "nm0000184"
             }],
@@ -3371,8 +3264,7 @@
             "votes": "535,179",
             "type": "Movie",
             "ranking": 108
-}
-{
+},{
             "title": "Good Will Hunting",
             "originalTitle": "",
             "year": "1997",
@@ -3384,7 +3276,7 @@
             "writers": [{
                 "name": "Matt Damon",
                 "id": "nm0000354"
-            } {
+            },{
                 "name": "Ben Affleck",
                 "id": "nm0000255"
             }],
@@ -3403,8 +3295,7 @@
             "votes": "631,938",
             "type": "Movie",
             "ranking": 109
-}
-{
+},{
             "title": "A Separation",
             "originalTitle": "Jodaeiye Nader az Simin",
             "year": "2011",
@@ -3432,8 +3323,7 @@
             "votes": "158,666",
             "type": "Movie",
             "ranking": 110
-}
-{
+},{
             "title": "Metropolis",
             "originalTitle": "",
             "year": "1927",
@@ -3445,7 +3335,7 @@
             "writers": [{
                 "name": "Thea von Harbou",
                 "id": "nm0902376"
-            } {
+            },{
                 "name": "Thea von Harbou",
                 "id": "nm0902376"
             }],
@@ -3464,8 +3354,7 @@
             "votes": "116,346",
             "type": "Movie",
             "ranking": 111
-}
-{
+},{
             "title": "All About Eve",
             "originalTitle": "",
             "year": "1950",
@@ -3492,8 +3381,7 @@
             "votes": "85,785",
             "type": "Movie",
             "ranking": 112
-}
-{
+},{
             "title": "Yojimbo",
             "originalTitle": "Yôjinbô",
             "year": "1961",
@@ -3505,7 +3393,7 @@
             "writers": [{
                 "name": "Akira Kurosawa",
                 "id": "nm0000041"
-            } {
+            },{
                 "name": "Akira Kurosawa",
                 "id": "nm0000041"
             }],
@@ -3523,8 +3411,7 @@
             "votes": "76,906",
             "type": "Movie",
             "ranking": 113
-}
-{
+},{
             "title": "Arrival",
             "originalTitle": "",
             "year": "2016",
@@ -3536,7 +3423,7 @@
             "writers": [{
                 "name": "Eric Heisserer",
                 "id": "nm2104063"
-            } {
+            },{
                 "name": "Ted Chiang",
                 "id": "nm5384213"
             }],
@@ -3555,8 +3442,7 @@
             "votes": "115,226",
             "type": "Movie",
             "ranking": 114
-}
-{
+},{
             "title": "Batman Begins",
             "originalTitle": "",
             "year": "2005",
@@ -3568,7 +3454,7 @@
             "writers": [{
                 "name": "Bob Kane",
                 "id": "nm0004170"
-            } {
+            },{
                 "name": "David S. Goyer",
                 "id": "nm0333060"
             }],
@@ -3587,8 +3473,7 @@
             "votes": "1,017,863",
             "type": "Movie",
             "ranking": 115
-}
-{
+},{
             "title": "Some Like It Hot",
             "originalTitle": "",
             "year": "1959",
@@ -3600,7 +3485,7 @@
             "writers": [{
                 "name": "Billy Wilder",
                 "id": "nm0000697"
-            } {
+            },{
                 "name": "I.A.L. Diamond",
                 "id": "nm0224634"
             }],
@@ -3618,8 +3503,7 @@
             "votes": "181,554",
             "type": "Movie",
             "ranking": 116
-}
-{
+},{
             "title": "Up",
             "originalTitle": "",
             "year": "2009",
@@ -3627,14 +3511,14 @@
             "directors": [{
                 "name": "Pete Docter",
                 "id": "nm0230032"
-            } {
+            },{
                 "name": "Bob Peterson",
                 "id": "nm0677037"
             }],
             "writers": [{
                 "name": "Pete Docter",
                 "id": "nm0230032"
-            } {
+            },{
                 "name": "Bob Peterson",
                 "id": "nm0677037"
             }],
@@ -3653,8 +3537,7 @@
             "votes": "696,285",
             "type": "Movie",
             "ranking": 117
-}
-{
+},{
             "title": "The Treasure of the Sierra Madre",
             "originalTitle": "",
             "year": "1948",
@@ -3666,7 +3549,7 @@
             "writers": [{
                 "name": "John Huston",
                 "id": "nm0001379"
-            } {
+            },{
                 "name": "B. Traven",
                 "id": "nm0871252"
             }],
@@ -3684,8 +3567,7 @@
             "votes": "82,139",
             "type": "Movie",
             "ranking": 118
-}
-{
+},{
             "title": "Unforgiven",
             "originalTitle": "",
             "year": "1992",
@@ -3713,8 +3595,7 @@
             "votes": "287,690",
             "type": "Movie",
             "ranking": 119
-}
-{
+},{
             "title": "Downfall",
             "originalTitle": "Der Untergang",
             "year": "2004",
@@ -3726,7 +3607,7 @@
             "writers": [{
                 "name": "Bernd Eichinger",
                 "id": "nm0251536"
-            } {
+            },{
                 "name": "Joachim Fest",
                 "id": "nm0275264"
             }],
@@ -3745,8 +3626,7 @@
             "votes": "257,335",
             "type": "Movie",
             "ranking": 120
-}
-{
+},{
             "title": "Raging Bull",
             "originalTitle": "",
             "year": "1980",
@@ -3758,7 +3638,7 @@
             "writers": [{
                 "name": "Jake LaMotta",
                 "id": "nm0483766"
-            } {
+            },{
                 "name": "Joseph Carter",
                 "id": "nm0141734"
             }],
@@ -3777,8 +3657,7 @@
             "votes": "243,138",
             "type": "Movie",
             "ranking": 121
-}
-{
+},{
             "title": "The Third Man",
             "originalTitle": "",
             "year": "1949",
@@ -3790,7 +3669,7 @@
             "writers": [{
                 "name": "Graham Greene",
                 "id": "nm0001294"
-            } {
+            },{
                 "name": "Graham Greene",
                 "id": "nm0001294"
             }],
@@ -3808,8 +3687,7 @@
             "votes": "117,731",
             "type": "Movie",
             "ranking": 122
-}
-{
+},{
             "title": "Die Hard",
             "originalTitle": "",
             "year": "1988",
@@ -3821,7 +3699,7 @@
             "writers": [{
                 "name": "Roderick Thorp",
                 "id": "nm0861636"
-            } {
+            },{
                 "name": "Jeb Stuart",
                 "id": "nm0835732"
             }],
@@ -3840,8 +3718,7 @@
             "votes": "614,032",
             "type": "Movie",
             "ranking": 123
-}
-{
+},{
             "title": "Children of Heaven",
             "originalTitle": "Bacheha-Ye aseman",
             "year": "1997",
@@ -3868,8 +3745,7 @@
             "votes": "31,750",
             "type": "Movie",
             "ranking": 124
-}
-{
+},{
             "title": "The Great Escape",
             "originalTitle": "",
             "year": "1963",
@@ -3881,7 +3757,7 @@
             "writers": [{
                 "name": "Paul Brickhill",
                 "id": "nm0108595"
-            } {
+            },{
                 "name": "James Clavell",
                 "id": "nm0165412"
             }],
@@ -3899,8 +3775,7 @@
             "votes": "171,909",
             "type": "Movie",
             "ranking": 125
-}
-{
+},{
             "title": "Heat",
             "originalTitle": "",
             "year": "1995",
@@ -3928,8 +3803,7 @@
             "votes": "445,578",
             "type": "Movie",
             "ranking": 126
-}
-{
+},{
             "title": "Chinatown",
             "originalTitle": "",
             "year": "1974",
@@ -3957,8 +3831,7 @@
             "votes": "224,416",
             "type": "Movie",
             "ranking": 127
-}
-{
+},{
             "title": "Inside Out",
             "originalTitle": "",
             "year": "2015",
@@ -3966,14 +3839,14 @@
             "directors": [{
                 "name": "Pete Docter",
                 "id": "nm0230032"
-            } {
+            },{
                 "name": "Ronnie Del Carmen",
                 "id": "nm0215455"
             }],
             "writers": [{
                 "name": "Pete Docter",
                 "id": "nm0230032"
-            } {
+            },{
                 "name": "Ronnie Del Carmen",
                 "id": "nm0215455"
             }],
@@ -3992,8 +3865,7 @@
             "votes": "385,713",
             "type": "Movie",
             "ranking": 128
-}
-{
+},{
             "title": "Pan's Labyrinth",
             "originalTitle": "El laberinto del fauno",
             "year": "2006",
@@ -4021,8 +3893,7 @@
             "votes": "484,548",
             "type": "Movie",
             "ranking": 129
-}
-{
+},{
             "title": "Ikiru",
             "originalTitle": "",
             "year": "1952",
@@ -4034,7 +3905,7 @@
             "writers": [{
                 "name": "Akira Kurosawa",
                 "id": "nm0000041"
-            } {
+            },{
                 "name": "Shinobu Hashimoto",
                 "id": "nm0368074"
             }],
@@ -4052,8 +3923,7 @@
             "votes": "44,323",
             "type": "Movie",
             "ranking": 130
-}
-{
+},{
             "title": "My Neighbor Totoro",
             "originalTitle": "Tonari no Totoro",
             "year": "1988",
@@ -4080,8 +3950,7 @@
             "votes": "182,552",
             "type": "Movie",
             "ranking": 131
-}
-{
+},{
             "title": "On the Waterfront",
             "originalTitle": "",
             "year": "1954",
@@ -4093,7 +3962,7 @@
             "writers": [{
                 "name": "Budd Schulberg",
                 "id": "nm0775977"
-            } {
+            },{
                 "name": "Budd Schulberg",
                 "id": "nm0775977"
             }],
@@ -4112,8 +3981,7 @@
             "votes": "104,667",
             "type": "Movie",
             "ranking": 132
-}
-{
+},{
             "title": "Room",
             "originalTitle": "",
             "year": "2015",
@@ -4125,7 +3993,7 @@
             "writers": [{
                 "name": "Emma Donoghue",
                 "id": "nm1480980"
-            } {
+            },{
                 "name": "Emma Donoghue",
                 "id": "nm1480980"
             }],
@@ -4144,8 +4012,7 @@
             "votes": "197,836",
             "type": "Movie",
             "ranking": 133
-}
-{
+},{
             "title": "Ran",
             "originalTitle": "",
             "year": "1985",
@@ -4157,7 +4024,7 @@
             "writers": [{
                 "name": "Akira Kurosawa",
                 "id": "nm0000041"
-            } {
+            },{
                 "name": "Hideo Oguni",
                 "id": "nm0644823"
             }],
@@ -4176,8 +4043,7 @@
             "votes": "80,700",
             "type": "Movie",
             "ranking": 134
-}
-{
+},{
             "title": "The Gold Rush",
             "originalTitle": "",
             "year": "1925",
@@ -4204,8 +4070,7 @@
             "votes": "70,929",
             "type": "Movie",
             "ranking": 135
-}
-{
+},{
             "title": "The Secret in Their Eyes",
             "originalTitle": "El secreto de sus ojos",
             "year": "2009",
@@ -4217,7 +4082,7 @@
             "writers": [{
                 "name": "Eduardo Sacheri",
                 "id": "nm3160078"
-            } {
+            },{
                 "name": "Juan José Campanella",
                 "id": "nm0002728"
             }],
@@ -4236,8 +4101,7 @@
             "votes": "138,874",
             "type": "Movie",
             "ranking": 136
-}
-{
+},{
             "title": "The Bridge on the River Kwai",
             "originalTitle": "",
             "year": "1957",
@@ -4249,7 +4113,7 @@
             "writers": [{
                 "name": "Pierre Boulle",
                 "id": "nm0099541"
-            } {
+            },{
                 "name": "Carl Foreman",
                 "id": "nm0286025"
             }],
@@ -4267,8 +4131,7 @@
             "votes": "155,321",
             "type": "Movie",
             "ranking": 137
-}
-{
+},{
             "title": "Blade Runner",
             "originalTitle": "",
             "year": "1982",
@@ -4280,7 +4143,7 @@
             "writers": [{
                 "name": "Hampton Fancher",
                 "id": "nm0266684"
-            } {
+            },{
                 "name": "David Webb Peoples",
                 "id": "nm0672459"
             }],
@@ -4299,8 +4162,7 @@
             "votes": "478,422",
             "type": "Movie",
             "ranking": 138
-}
-{
+},{
             "title": "Mr. Smith Goes to Washington",
             "originalTitle": "",
             "year": "1939",
@@ -4312,7 +4174,7 @@
             "writers": [{
                 "name": "Sidney Buchman",
                 "id": "nm0118227"
-            } {
+            },{
                 "name": "Lewis R. Foster",
                 "id": "nm0287931"
             }],
@@ -4330,8 +4192,7 @@
             "votes": "80,146",
             "type": "Movie",
             "ranking": 139
-}
-{
+},{
             "title": "The Seventh Seal",
             "originalTitle": "Det sjunde inseglet",
             "year": "1957",
@@ -4343,7 +4204,7 @@
             "writers": [{
                 "name": "Ingmar Bergman",
                 "id": "nm0000005"
-            } {
+            },{
                 "name": "Ingmar Bergman",
                 "id": "nm0000005"
             }],
@@ -4361,8 +4222,7 @@
             "votes": "116,324",
             "type": "Movie",
             "ranking": 140
-}
-{
+},{
             "title": "Lock, Stock and Two Smoking Barrels",
             "originalTitle": "",
             "year": "1998",
@@ -4390,8 +4250,7 @@
             "votes": "428,598",
             "type": "Movie",
             "ranking": 141
-}
-{
+},{
             "title": "Howl's Moving Castle",
             "originalTitle": "Hauru no ugoku shiro",
             "year": "2004",
@@ -4403,7 +4262,7 @@
             "writers": [{
                 "name": "Hayao Miyazaki",
                 "id": "nm0594503"
-            } {
+            },{
                 "name": "Diana Wynne Jones",
                 "id": "nm1168510"
             }],
@@ -4422,8 +4281,7 @@
             "votes": "224,931",
             "type": "Movie",
             "ranking": 142
-}
-{
+},{
             "title": "Casino",
             "originalTitle": "",
             "year": "1995",
@@ -4435,7 +4293,7 @@
             "writers": [{
                 "name": "Nicholas Pileggi",
                 "id": "nm0683380"
-            } {
+            },{
                 "name": "Nicholas Pileggi",
                 "id": "nm0683380"
             }],
@@ -4454,8 +4312,7 @@
             "votes": "346,629",
             "type": "Movie",
             "ranking": 143
-}
-{
+},{
             "title": "The Bandit",
             "originalTitle": "Eskiya",
             "year": "1996",
@@ -4482,8 +4339,7 @@
             "votes": "37,637",
             "type": "Movie",
             "ranking": 144
-}
-{
+},{
             "title": "Judgment at Nuremberg",
             "originalTitle": "",
             "year": "1961",
@@ -4495,7 +4351,7 @@
             "writers": [{
                 "name": "Abby Mann",
                 "id": "nm0542631"
-            } {
+            },{
                 "name": "Abby Mann",
                 "id": "nm0542631"
             }],
@@ -4513,8 +4369,7 @@
             "votes": "46,803",
             "type": "Movie",
             "ranking": 145
-}
-{
+},{
             "title": "A Wednesday",
             "originalTitle": "",
             "year": "2008",
@@ -4526,7 +4381,7 @@
             "writers": [{
                 "name": "Neeraj Pandey",
                 "id": "nm3109770"
-            } {
+            },{
                 "name": "Neeraj Pandey",
                 "id": "nm3109770"
             }],
@@ -4544,8 +4399,7 @@
             "votes": "46,867",
             "type": "Movie",
             "ranking": 146
-}
-{
+},{
             "title": "Incendies",
             "originalTitle": "",
             "year": "2010",
@@ -4557,7 +4411,7 @@
             "writers": [{
                 "name": "Denis Villeneuve",
                 "id": "nm0898288"
-            } {
+            },{
                 "name": "Wajdi Mouawad",
                 "id": "nm1416431"
             }],
@@ -4576,8 +4430,7 @@
             "votes": "87,109",
             "type": "Movie",
             "ranking": 147
-}
-{
+},{
             "title": "A Beautiful Mind",
             "originalTitle": "",
             "year": "2001",
@@ -4589,7 +4442,7 @@
             "writers": [{
                 "name": "Akiva Goldsman",
                 "id": "nm0326040"
-            } {
+            },{
                 "name": "Sylvia Nasar",
                 "id": "nm0621586"
             }],
@@ -4608,8 +4461,7 @@
             "votes": "637,925",
             "type": "Movie",
             "ranking": 148
-}
-{
+},{
             "title": "The General",
             "originalTitle": "",
             "year": "1926",
@@ -4617,14 +4469,14 @@
             "directors": [{
                 "name": "Clyde Bruckman",
                 "id": "nm0115669"
-            } {
+            },{
                 "name": "Buster Keaton",
                 "id": "nm0000036"
             }],
             "writers": [{
                 "name": "Buster Keaton",
                 "id": "nm0000036"
-            } {
+            },{
                 "name": "Clyde Bruckman",
                 "id": "nm0115669"
             }],
@@ -4642,8 +4494,7 @@
             "votes": "55,808",
             "type": "Movie",
             "ranking": 149
-}
-{
+},{
             "title": "Wild Strawberries",
             "originalTitle": "Smultronstället",
             "year": "1957",
@@ -4670,8 +4521,7 @@
             "votes": "65,690",
             "type": "Movie",
             "ranking": 150
-}
-{
+},{
             "title": "The Elephant Man",
             "originalTitle": "",
             "year": "1980",
@@ -4683,7 +4533,7 @@
             "writers": [{
                 "name": "Christopher De Vore",
                 "id": "nm0212246"
-            } {
+            },{
                 "name": "Eric Bergren",
                 "id": "nm0075015"
             }],
@@ -4701,8 +4551,7 @@
             "votes": "167,827",
             "type": "Movie",
             "ranking": 151
-}
-{
+},{
             "title": "Warrior",
             "originalTitle": "",
             "year": "2011",
@@ -4714,7 +4563,7 @@
             "writers": [{
                 "name": "Gavin O'Connor",
                 "id": "nm0640334"
-            } {
+            },{
                 "name": "Anthony Tambakis",
                 "id": "nm3294574"
             }],
@@ -4733,8 +4582,7 @@
             "votes": "344,850",
             "type": "Movie",
             "ranking": 152
-}
-{
+},{
             "title": "V for Vendetta",
             "originalTitle": "",
             "year": "2005",
@@ -4746,7 +4594,7 @@
             "writers": [{
                 "name": "Lilly Wachowski",
                 "id": "nm0905152"
-            } {
+            },{
                 "name": "Lana Wachowski",
                 "id": "nm0905154"
             }],
@@ -4765,8 +4613,7 @@
             "votes": "822,537",
             "type": "Movie",
             "ranking": 153
-}
-{
+},{
             "title": "The Wolf of Wall Street",
             "originalTitle": "",
             "year": "2013",
@@ -4778,7 +4625,7 @@
             "writers": [{
                 "name": "Terence Winter",
                 "id": "nm1010540"
-            } {
+            },{
                 "name": "Jordan Belfort",
                 "id": "nm0067789"
             }],
@@ -4797,8 +4644,7 @@
             "votes": "826,289",
             "type": "Movie",
             "ranking": 154
-}
-{
+},{
             "title": "Sunrise",
             "originalTitle": "Sunrise: A Song of Two Humans",
             "year": "1927",
@@ -4810,7 +4656,7 @@
             "writers": [{
                 "name": "Carl Mayer",
                 "id": "nm0562346"
-            } {
+            },{
                 "name": "Hermann Sudermann",
                 "id": "nm0837183"
             }],
@@ -4828,8 +4674,7 @@
             "votes": "30,957",
             "type": "Movie",
             "ranking": 155
-}
-{
+},{
             "title": "The Passion of Joan of Arc",
             "originalTitle": "La passion de Jeanne d'Arc",
             "year": "1928",
@@ -4841,7 +4686,7 @@
             "writers": [{
                 "name": "Joseph Delteil",
                 "id": "nm0217865"
-            } {
+            },{
                 "name": "Carl Theodor Dreyer",
                 "id": "nm0003433"
             }],
@@ -4859,8 +4704,7 @@
             "votes": "27,382",
             "type": "Movie",
             "ranking": 156
-}
-{
+},{
             "title": "Gran Torino",
             "originalTitle": "",
             "year": "2008",
@@ -4872,7 +4716,7 @@
             "writers": [{
                 "name": "Nick Schenk",
                 "id": "nm1010405"
-            } {
+            },{
                 "name": "Dave Johannson",
                 "id": "nm3164738"
             }],
@@ -4891,8 +4735,7 @@
             "votes": "580,136",
             "type": "Movie",
             "ranking": 157
-}
-{
+},{
             "title": "Rang De Basanti",
             "originalTitle": "",
             "year": "2006",
@@ -4904,7 +4747,7 @@
             "writers": [{
                 "name": "Renzil D'Silva",
                 "id": "nm1028832"
-            } {
+            },{
                 "name": "Prasoon Joshi",
                 "id": "nm1149334"
             }],
@@ -4922,8 +4765,7 @@
             "votes": "75,606",
             "type": "Movie",
             "ranking": 158
-}
-{
+},{
             "title": "Andaz Apna Apna",
             "originalTitle": "",
             "year": "1994",
@@ -4935,7 +4777,7 @@
             "writers": [{
                 "name": "Rajkumar Santoshi",
                 "id": "nm0764316"
-            } {
+            },{
                 "name": "Rajkumar Santoshi",
                 "id": "nm0764316"
             }],
@@ -4953,8 +4795,7 @@
             "votes": "35,397",
             "type": "Movie",
             "ranking": 159
-}
-{
+},{
             "title": "Hera Pheri",
             "originalTitle": "",
             "year": "2000",
@@ -4966,7 +4807,7 @@
             "writers": [{
                 "name": "Siddique",
                 "id": "nm0796504"
-            } {
+            },{
                 "name": "Lal",
                 "id": "nm0482309"
             }],
@@ -4984,8 +4825,7 @@
             "votes": "34,142",
             "type": "Movie",
             "ranking": 160
-}
-{
+},{
             "title": "The Big Lebowski",
             "originalTitle": "",
             "year": "1998",
@@ -4993,14 +4833,14 @@
             "directors": [{
                 "name": "Joel Coen",
                 "id": "nm0001054"
-            } {
+            },{
                 "name": "Ethan Coen",
                 "id": "nm0001053"
             }],
             "writers": [{
                 "name": "Ethan Coen",
                 "id": "nm0001053"
-            } {
+            },{
                 "name": "Joel Coen",
                 "id": "nm0001054"
             }],
@@ -5019,8 +4859,7 @@
             "votes": "558,694",
             "type": "Movie",
             "ranking": 161
-}
-{
+},{
             "title": "Dial M for Murder",
             "originalTitle": "",
             "year": "1954",
@@ -5032,7 +4871,7 @@
             "writers": [{
                 "name": "Frederick Knott",
                 "id": "nm0461425"
-            } {
+            },{
                 "name": "Frederick Knott",
                 "id": "nm0461425"
             }],
@@ -5050,8 +4889,7 @@
             "votes": "111,462",
             "type": "Movie",
             "ranking": 162
-}
-{
+},{
             "title": "Trainspotting",
             "originalTitle": "",
             "year": "1996",
@@ -5063,7 +4901,7 @@
             "writers": [{
                 "name": "John Hodge",
                 "id": "nm0388076"
-            } {
+            },{
                 "name": "Irvine Welsh",
                 "id": "nm0920543"
             }],
@@ -5082,8 +4920,7 @@
             "votes": "488,017",
             "type": "Movie",
             "ranking": 163
-}
-{
+},{
             "title": "The Deer Hunter",
             "originalTitle": "",
             "year": "1978",
@@ -5095,7 +4932,7 @@
             "writers": [{
                 "name": "Michael Cimino",
                 "id": "nm0001047"
-            } {
+            },{
                 "name": "Deric Washburn",
                 "id": "nm0913346"
             }],
@@ -5114,8 +4951,7 @@
             "votes": "240,920",
             "type": "Movie",
             "ranking": 164
-}
-{
+},{
             "title": "Tokyo Story",
             "originalTitle": "Tôkyô monogatari",
             "year": "1953",
@@ -5127,7 +4963,7 @@
             "writers": [{
                 "name": "Kôgo Noda",
                 "id": "nm0633792"
-            } {
+            },{
                 "name": "Yasujirô Ozu",
                 "id": "nm0654868"
             }],
@@ -5145,8 +4981,7 @@
             "votes": "28,944",
             "type": "Movie",
             "ranking": 165
-}
-{
+},{
             "title": "Gone with the Wind",
             "originalTitle": "",
             "year": "1939",
@@ -5154,14 +4989,14 @@
             "directors": [{
                 "name": "Victor Fleming",
                 "id": "nm0281808"
-            } {
+            },{
                 "name": "George Cukor",
                 "id": "nm0002030"
             }],
             "writers": [{
                 "name": "Margaret Mitchell",
                 "id": "nm0593565"
-            } {
+            },{
                 "name": "Sidney Howard",
                 "id": "nm0397608"
             }],
@@ -5179,8 +5014,7 @@
             "votes": "222,712",
             "type": "Movie",
             "ranking": 166
-}
-{
+},{
             "title": "Fargo",
             "originalTitle": "",
             "year": "1996",
@@ -5188,14 +5022,14 @@
             "directors": [{
                 "name": "Joel Coen",
                 "id": "nm0001054"
-            } {
+            },{
                 "name": "Ethan Coen",
                 "id": "nm0001053"
             }],
             "writers": [{
                 "name": "Ethan Coen",
                 "id": "nm0001053"
-            } {
+            },{
                 "name": "Joel Coen",
                 "id": "nm0001054"
             }],
@@ -5214,8 +5048,7 @@
             "votes": "471,782",
             "type": "Movie",
             "ranking": 167
-}
-{
+},{
             "title": "Finding Nemo",
             "originalTitle": "",
             "year": "2003",
@@ -5223,14 +5056,14 @@
             "directors": [{
                 "name": "Andrew Stanton",
                 "id": "nm0004056"
-            } {
+            },{
                 "name": "Lee Unkrich",
                 "id": "nm0881279"
             }],
             "writers": [{
                 "name": "Andrew Stanton",
                 "id": "nm0004056"
-            } {
+            },{
                 "name": "Andrew Stanton",
                 "id": "nm0004056"
             }],
@@ -5249,8 +5082,7 @@
             "votes": "724,524",
             "type": "Movie",
             "ranking": 168
-}
-{
+},{
             "title": "The Sixth Sense",
             "originalTitle": "",
             "year": "1999",
@@ -5278,8 +5110,7 @@
             "votes": "727,876",
             "type": "Movie",
             "ranking": 169
-}
-{
+},{
             "title": "Cool Hand Luke",
             "originalTitle": "",
             "year": "1967",
@@ -5291,7 +5122,7 @@
             "writers": [{
                 "name": "Donn Pearce",
                 "id": "nm0668914"
-            } {
+            },{
                 "name": "Frank Pierson",
                 "id": "nm0682757"
             }],
@@ -5309,8 +5140,7 @@
             "votes": "123,857",
             "type": "Movie",
             "ranking": 170
-}
-{
+},{
             "title": "The Thing",
             "originalTitle": "",
             "year": "1982",
@@ -5322,7 +5152,7 @@
             "writers": [{
                 "name": "Bill Lancaster",
                 "id": "nm0484111"
-            } {
+            },{
                 "name": "John W. Campbell Jr.",
                 "id": "nm0132168"
             }],
@@ -5340,8 +5170,7 @@
             "votes": "269,690",
             "type": "Movie",
             "ranking": 171
-}
-{
+},{
             "title": "Rebecca",
             "originalTitle": "",
             "year": "1940",
@@ -5353,7 +5182,7 @@
             "writers": [{
                 "name": "Daphne Du Maurier",
                 "id": "nm0238898"
-            } {
+            },{
                 "name": "Robert E. Sherwood",
                 "id": "nm0792845"
             }],
@@ -5371,8 +5200,7 @@
             "votes": "90,663",
             "type": "Movie",
             "ranking": 172
-}
-{
+},{
             "title": "Munna Bhai M.B.B.S.",
             "originalTitle": "",
             "year": "2003",
@@ -5384,7 +5212,7 @@
             "writers": [{
                 "name": "Vidhu Vinod Chopra",
                 "id": "nm0006765"
-            } {
+            },{
                 "name": "Rajkumar Hirani",
                 "id": "nm0386246"
             }],
@@ -5402,8 +5230,7 @@
             "votes": "46,477",
             "type": "Movie",
             "ranking": 173
-}
-{
+},{
             "title": "Sholay",
             "originalTitle": "",
             "year": "1975",
@@ -5415,7 +5242,7 @@
             "writers": [{
                 "name": "Javed Akhtar",
                 "id": "nm0015287"
-            } {
+            },{
                 "name": "Salim Khan",
                 "id": "nm0451311"
             }],
@@ -5433,8 +5260,7 @@
             "votes": "34,444",
             "type": "Movie",
             "ranking": 174
-}
-{
+},{
             "title": "No Country for Old Men",
             "originalTitle": "",
             "year": "2007",
@@ -5442,14 +5268,14 @@
             "directors": [{
                 "name": "Ethan Coen",
                 "id": "nm0001053"
-            } {
+            },{
                 "name": "Joel Coen",
                 "id": "nm0001054"
             }],
             "writers": [{
                 "name": "Joel Coen",
                 "id": "nm0001054"
-            } {
+            },{
                 "name": "Ethan Coen",
                 "id": "nm0001053"
             }],
@@ -5468,8 +5294,7 @@
             "votes": "638,212",
             "type": "Movie",
             "ranking": 175
-}
-{
+},{
             "title": "How to Train Your Dragon",
             "originalTitle": "",
             "year": "2010",
@@ -5477,14 +5302,14 @@
             "directors": [{
                 "name": "Dean DeBlois",
                 "id": "nm0213450"
-            } {
+            },{
                 "name": "Chris Sanders",
                 "id": "nm0761498"
             }],
             "writers": [{
                 "name": "William Davies",
                 "id": "nm0204030"
-            } {
+            },{
                 "name": "Dean DeBlois",
                 "id": "nm0213450"
             }],
@@ -5503,8 +5328,7 @@
             "votes": "506,487",
             "type": "Movie",
             "ranking": 176
-}
-{
+},{
             "title": "Into the Wild",
             "originalTitle": "",
             "year": "2007",
@@ -5516,7 +5340,7 @@
             "writers": [{
                 "name": "Sean Penn",
                 "id": "nm0000576"
-            } {
+            },{
                 "name": "Jon Krakauer",
                 "id": "nm1040556"
             }],
@@ -5535,8 +5359,7 @@
             "votes": "444,177",
             "type": "Movie",
             "ranking": 177
-}
-{
+},{
             "title": "Kill Bill: Vol. 1",
             "originalTitle": "",
             "year": "2003",
@@ -5548,7 +5371,7 @@
             "writers": [{
                 "name": "Quentin Tarantino",
                 "id": "nm0000233"
-            } {
+            },{
                 "name": "Quentin Tarantino",
                 "id": "nm0000233"
             }],
@@ -5567,8 +5390,7 @@
             "votes": "762,902",
             "type": "Movie",
             "ranking": 178
-}
-{
+},{
             "title": "Mary et Max.",
             "originalTitle": "Mary and Max",
             "year": "2009",
@@ -5595,8 +5417,7 @@
             "votes": "124,721",
             "type": "Movie",
             "ranking": 179
-}
-{
+},{
             "title": "Gone Girl",
             "originalTitle": "",
             "year": "2014",
@@ -5608,7 +5429,7 @@
             "writers": [{
                 "name": "Gillian Flynn",
                 "id": "nm5058839"
-            } {
+            },{
                 "name": "Gillian Flynn",
                 "id": "nm5058839"
             }],
@@ -5627,8 +5448,7 @@
             "votes": "606,045",
             "type": "Movie",
             "ranking": 180
-}
-{
+},{
             "title": "There Will Be Blood",
             "originalTitle": "",
             "year": "2007",
@@ -5640,7 +5460,7 @@
             "writers": [{
                 "name": "Paul Thomas Anderson",
                 "id": "nm0000759"
-            } {
+            },{
                 "name": "Upton Sinclair",
                 "id": "nm0801737"
             }],
@@ -5659,8 +5479,7 @@
             "votes": "388,352",
             "type": "Movie",
             "ranking": 181
-}
-{
+},{
             "title": "Come and See",
             "originalTitle": "Idi i smotri",
             "year": "1985",
@@ -5672,7 +5491,7 @@
             "writers": [{
                 "name": "Ales Adamovich",
                 "id": "nm0010696"
-            } {
+            },{
                 "name": "Ales Adamovich",
                 "id": "nm0010696"
             }],
@@ -5690,8 +5509,7 @@
             "votes": "28,107",
             "type": "Movie",
             "ranking": 182
-}
-{
+},{
             "title": "It Happened One Night",
             "originalTitle": "",
             "year": "1934",
@@ -5703,7 +5521,7 @@
             "writers": [{
                 "name": "Robert Riskin",
                 "id": "nm0728307"
-            } {
+            },{
                 "name": "Samuel Hopkins Adams",
                 "id": "nm0011343"
             }],
@@ -5721,8 +5539,7 @@
             "votes": "67,759",
             "type": "Movie",
             "ranking": 183
-}
-{
+},{
             "title": "Life of Brian",
             "originalTitle": "",
             "year": "1979",
@@ -5734,7 +5551,7 @@
             "writers": [{
                 "name": "Graham Chapman",
                 "id": "nm0001037"
-            } {
+            },{
                 "name": "John Cleese",
                 "id": "nm0000092"
             }],
@@ -5753,8 +5570,7 @@
             "votes": "282,068",
             "type": "Movie",
             "ranking": 184
-}
-{
+},{
             "title": "Rush",
             "originalTitle": "",
             "year": "2013",
@@ -5782,8 +5598,7 @@
             "votes": "327,806",
             "type": "Movie",
             "ranking": 185
-}
-{
+},{
             "title": "Hotel Rwanda",
             "originalTitle": "",
             "year": "2004",
@@ -5795,7 +5610,7 @@
             "writers": [{
                 "name": "Keir Pearson",
                 "id": "nm0669311"
-            } {
+            },{
                 "name": "Terry George",
                 "id": "nm0313623"
             }],
@@ -5814,8 +5629,7 @@
             "votes": "273,449",
             "type": "Movie",
             "ranking": 186
-}
-{
+},{
             "title": "Platoon",
             "originalTitle": "",
             "year": "1986",
@@ -5842,8 +5656,7 @@
             "votes": "301,447",
             "type": "Movie",
             "ranking": 187
-}
-{
+},{
             "title": "Shutter Island",
             "originalTitle": "",
             "year": "2010",
@@ -5855,7 +5668,7 @@
             "writers": [{
                 "name": "Laeta Kalogridis",
                 "id": "nm0436164"
-            } {
+            },{
                 "name": "Dennis Lehane",
                 "id": "nm1212331"
             }],
@@ -5874,8 +5687,7 @@
             "votes": "823,289",
             "type": "Movie",
             "ranking": 188
-}
-{
+},{
             "title": "Network",
             "originalTitle": "",
             "year": "1976",
@@ -5903,8 +5715,7 @@
             "votes": "107,787",
             "type": "Movie",
             "ranking": 189
-}
-{
+},{
             "title": "Star Wars: The Force Awakens",
             "originalTitle": "Star Wars: Episode VII - The Force Awakens",
             "year": "2015",
@@ -5916,7 +5727,7 @@
             "writers": [{
                 "name": "Lawrence Kasdan",
                 "id": "nm0001410"
-            } {
+            },{
                 "name": "J.J. Abrams",
                 "id": "nm0009190"
             }],
@@ -5935,8 +5746,7 @@
             "votes": "624,374",
             "type": "Movie",
             "ranking": 190
-}
-{
+},{
             "title": "The Wages of Fear",
             "originalTitle": "Le salaire de la peur",
             "year": "1953",
@@ -5948,7 +5758,7 @@
             "writers": [{
                 "name": "Georges Arnaud",
                 "id": "nm1064118"
-            } {
+            },{
                 "name": "Henri-Georges Clouzot",
                 "id": "nm0167241"
             }],
@@ -5966,8 +5776,7 @@
             "votes": "36,863",
             "type": "Movie",
             "ranking": 191
-}
-{
+},{
             "title": "The Nights of Cabiria",
             "originalTitle": "Le notti di Cabiria",
             "year": "1957",
@@ -5979,7 +5788,7 @@
             "writers": [{
                 "name": "Maria Molinari",
                 "id": "nm2682062"
-            } {
+            },{
                 "name": "Federico Fellini",
                 "id": "nm0000019"
             }],
@@ -5997,8 +5806,7 @@
             "votes": "27,523",
             "type": "Movie",
             "ranking": 192
-}
-{
+},{
             "title": "Spotlight",
             "originalTitle": "",
             "year": "2015",
@@ -6010,7 +5818,7 @@
             "writers": [{
                 "name": "Josh Singer",
                 "id": "nm1802857"
-            } {
+            },{
                 "name": "Tom McCarthy",
                 "id": "nm0565336"
             }],
@@ -6029,8 +5837,7 @@
             "votes": "239,145",
             "type": "Movie",
             "ranking": 193
-}
-{
+},{
             "title": "Stand by Me",
             "originalTitle": "",
             "year": "1986",
@@ -6042,7 +5849,7 @@
             "writers": [{
                 "name": "Stephen King",
                 "id": "nm0000175"
-            } {
+            },{
                 "name": "Raynold Gideon",
                 "id": "nm0317279"
             }],
@@ -6060,8 +5867,7 @@
             "votes": "282,364",
             "type": "Movie",
             "ranking": 194
-}
-{
+},{
             "title": "Au nom du père",
             "originalTitle": "In the Name of the Father",
             "year": "1993",
@@ -6073,7 +5879,7 @@
             "writers": [{
                 "name": "Gerry Conlon",
                 "id": "nm0174840"
-            } {
+            },{
                 "name": "Terry George",
                 "id": "nm0313623"
             }],
@@ -6092,8 +5898,7 @@
             "votes": "114,833",
             "type": "Movie",
             "ranking": 195
-}
-{
+},{
             "title": "Les nouveaux sauvages",
             "originalTitle": "Relatos salvajes",
             "year": "2014",
@@ -6121,8 +5926,7 @@
             "votes": "101,050",
             "type": "Movie",
             "ranking": 196
-}
-{
+},{
             "title": "Butch Cassidy and the Sundance Kid",
             "originalTitle": "",
             "year": "1969",
@@ -6150,8 +5954,7 @@
             "votes": "157,712",
             "type": "Movie",
             "ranking": 197
-}
-{
+},{
             "title": "The 400 Blows",
             "originalTitle": "Les quatre cents coups",
             "year": "1959",
@@ -6163,7 +5966,7 @@
             "writers": [{
                 "name": "François Truffaut",
                 "id": "nm0000076"
-            } {
+            },{
                 "name": "Marcel Moussy",
                 "id": "nm0610115"
             }],
@@ -6181,8 +5984,7 @@
             "votes": "73,084",
             "type": "Movie",
             "ranking": 198
-}
-{
+},{
             "title": "Mad Max: Fury Road",
             "originalTitle": "",
             "year": "2015",
@@ -6194,7 +5996,7 @@
             "writers": [{
                 "name": "George Miller",
                 "id": "nm0004306"
-            } {
+            },{
                 "name": "Brendan McCarthy",
                 "id": "nm0565068"
             }],
@@ -6213,8 +6015,7 @@
             "votes": "598,321",
             "type": "Movie",
             "ranking": 199
-}
-{
+},{
             "title": "The Maltese Falcon",
             "originalTitle": "",
             "year": "1941",
@@ -6226,7 +6027,7 @@
             "writers": [{
                 "name": "John Huston",
                 "id": "nm0001379"
-            } {
+            },{
                 "name": "Dashiell Hammett",
                 "id": "nm0358591"
             }],
@@ -6244,8 +6045,7 @@
             "votes": "117,428",
             "type": "Movie",
             "ranking": 200
-}
-{
+},{
             "title": "12 Years a Slave",
             "originalTitle": "",
             "year": "2013",
@@ -6257,7 +6057,7 @@
             "writers": [{
                 "name": "John Ridley",
                 "id": "nm0725983"
-            } {
+            },{
                 "name": "Solomon Northup",
                 "id": "nm1185849"
             }],
@@ -6276,8 +6076,7 @@
             "votes": "464,068",
             "type": "Movie",
             "ranking": 201
-}
-{
+},{
             "title": "Ben-Hur",
             "originalTitle": "",
             "year": "1959",
@@ -6289,7 +6088,7 @@
             "writers": [{
                 "name": "Lew Wallace",
                 "id": "nm0908753"
-            } {
+            },{
                 "name": "Karl Tunberg",
                 "id": "nm0876562"
             }],
@@ -6308,8 +6107,7 @@
             "votes": "167,969",
             "type": "Movie",
             "ranking": 202
-}
-{
+},{
             "title": "The Grand Budapest Hotel",
             "originalTitle": "",
             "year": "2014",
@@ -6321,7 +6119,7 @@
             "writers": [{
                 "name": "Stefan Zweig",
                 "id": "nm0959003"
-            } {
+            },{
                 "name": "Wes Anderson",
                 "id": "nm0027572"
             }],
@@ -6340,8 +6138,7 @@
             "votes": "506,037",
             "type": "Movie",
             "ranking": 203
-}
-{
+},{
             "title": "Million Dollar Baby",
             "originalTitle": "",
             "year": "2004",
@@ -6353,7 +6150,7 @@
             "writers": [{
                 "name": "Paul Haggis",
                 "id": "nm0353673"
-            } {
+            },{
                 "name": "F.X. Toole",
                 "id": "nm0101801"
             }],
@@ -6372,8 +6169,7 @@
             "votes": "499,999",
             "type": "Movie",
             "ranking": 204
-}
-{
+},{
             "title": "Persona",
             "originalTitle": "",
             "year": "1966",
@@ -6400,8 +6196,7 @@
             "votes": "65,036",
             "type": "Movie",
             "ranking": 205
-}
-{
+},{
             "title": "Amores Perros",
             "originalTitle": "Amores perros",
             "year": "2000",
@@ -6429,8 +6224,7 @@
             "votes": "179,186",
             "type": "Movie",
             "ranking": 206
-}
-{
+},{
             "title": "The Princess Bride",
             "originalTitle": "",
             "year": "1987",
@@ -6442,7 +6236,7 @@
             "writers": [{
                 "name": "William Goldman",
                 "id": "nm0001279"
-            } {
+            },{
                 "name": "William Goldman",
                 "id": "nm0001279"
             }],
@@ -6461,8 +6255,7 @@
             "votes": "304,415",
             "type": "Movie",
             "ranking": 207
-}
-{
+},{
             "title": "Jurassic Park",
             "originalTitle": "",
             "year": "1993",
@@ -6474,7 +6267,7 @@
             "writers": [{
                 "name": "Michael Crichton",
                 "id": "nm0000341"
-            } {
+            },{
                 "name": "Michael Crichton",
                 "id": "nm0000341"
             }],
@@ -6493,8 +6286,7 @@
             "votes": "641,020",
             "type": "Movie",
             "ranking": 208
-}
-{
+},{
             "title": "Drishyam",
             "originalTitle": "",
             "year": "2015",
@@ -6506,7 +6298,7 @@
             "writers": [{
                 "name": "Jeethu Joseph",
                 "id": "nm2572228"
-            } {
+            },{
                 "name": "Upendra Sidhaye",
                 "id": "nm3179723"
             }],
@@ -6524,8 +6316,7 @@
             "votes": "34,981",
             "type": "Movie",
             "ranking": 209
-}
-{
+},{
             "title": "Hachi: A Dog's Tale",
             "originalTitle": "",
             "year": "2009",
@@ -6537,7 +6328,7 @@
             "writers": [{
                 "name": "Stephen P. Lindsey",
                 "id": "nm2124742"
-            } {
+            },{
                 "name": "Kaneto Shindô",
                 "id": "nm0793881"
             }],
@@ -6555,8 +6346,7 @@
             "votes": "167,452",
             "type": "Movie",
             "ranking": 210
-}
-{
+},{
             "title": "Memories of Murder",
             "originalTitle": "Salinui chueok",
             "year": "2003",
@@ -6568,7 +6358,7 @@
             "writers": [{
                 "name": "Joon-ho Bong",
                 "id": "nm0094435"
-            } {
+            },{
                 "name": "Kwang-rim Kim",
                 "id": "nm1323286"
             }],
@@ -6587,8 +6377,7 @@
             "votes": "72,022",
             "type": "Movie",
             "ranking": 211
-}
-{
+},{
             "title": "Nausicaä of the Valley of the Wind",
             "originalTitle": "Kaze no tani no Naushika",
             "year": "1984",
@@ -6600,7 +6389,7 @@
             "writers": [{
                 "name": "Hayao Miyazaki",
                 "id": "nm0594503"
-            } {
+            },{
                 "name": "Hayao Miyazaki",
                 "id": "nm0594503"
             }],
@@ -6618,8 +6407,7 @@
             "votes": "101,025",
             "type": "Movie",
             "ranking": 212
-}
-{
+},{
             "title": "Stalker",
             "originalTitle": "",
             "year": "1979",
@@ -6631,7 +6419,7 @@
             "writers": [{
                 "name": "Arkadiy Strugatskiy",
                 "id": "nm0835297"
-            } {
+            },{
                 "name": "Boris Strugatskiy",
                 "id": "nm0835298"
             }],
@@ -6649,8 +6437,7 @@
             "votes": "72,030",
             "type": "Movie",
             "ranking": 213
-}
-{
+},{
             "title": "The Truman Show",
             "originalTitle": "",
             "year": "1998",
@@ -6678,8 +6465,7 @@
             "votes": "695,966",
             "type": "Movie",
             "ranking": 214
-}
-{
+},{
             "title": "The Grapes of Wrath",
             "originalTitle": "",
             "year": "1940",
@@ -6691,7 +6477,7 @@
             "writers": [{
                 "name": "Nunnally Johnson",
                 "id": "nm0425913"
-            } {
+            },{
                 "name": "John Steinbeck",
                 "id": "nm0825705"
             }],
@@ -6709,8 +6495,7 @@
             "votes": "65,640",
             "type": "Movie",
             "ranking": 215
-}
-{
+},{
             "title": "Before Sunrise",
             "originalTitle": "",
             "year": "1995",
@@ -6722,7 +6507,7 @@
             "writers": [{
                 "name": "Richard Linklater",
                 "id": "nm0000500"
-            } {
+            },{
                 "name": "Kim Krizan",
                 "id": "nm0471811"
             }],
@@ -6741,8 +6526,7 @@
             "votes": "192,257",
             "type": "Movie",
             "ranking": 216
-}
-{
+},{
             "title": "Touch of Evil",
             "originalTitle": "",
             "year": "1958",
@@ -6754,7 +6538,7 @@
             "writers": [{
                 "name": "Orson Welles",
                 "id": "nm0000080"
-            } {
+            },{
                 "name": "Whit Masterson",
                 "id": "nm0557767"
             }],
@@ -6772,8 +6556,7 @@
             "votes": "75,642",
             "type": "Movie",
             "ranking": 217
-}
-{
+},{
             "title": "The Message",
             "originalTitle": "",
             "year": "1976",
@@ -6785,7 +6568,7 @@
             "writers": [{
                 "name": "H.A.L. Craig",
                 "id": "nm0185867"
-            } {
+            },{
                 "name": "Tewfik El-Hakim",
                 "id": "nm0252821"
             }],
@@ -6803,8 +6586,7 @@
             "votes": "33,688",
             "type": "Movie",
             "ranking": 218
-}
-{
+},{
             "title": "Annie Hall",
             "originalTitle": "",
             "year": "1977",
@@ -6816,7 +6598,7 @@
             "writers": [{
                 "name": "Woody Allen",
                 "id": "nm0000095"
-            } {
+            },{
                 "name": "Marshall Brickman",
                 "id": "nm0108613"
             }],
@@ -6834,8 +6616,7 @@
             "votes": "200,879",
             "type": "Movie",
             "ranking": 219
-}
-{
+},{
             "title": "Gandhi",
             "originalTitle": "",
             "year": "1982",
@@ -6862,8 +6643,7 @@
             "votes": "177,755",
             "type": "Movie",
             "ranking": 220
-}
-{
+},{
             "title": "Rocky",
             "originalTitle": "",
             "year": "1976",
@@ -6890,8 +6670,7 @@
             "votes": "392,013",
             "type": "Movie",
             "ranking": 221
-}
-{
+},{
             "title": "Harry Potter and the Deathly Hallows: Part 2",
             "originalTitle": "",
             "year": "2011",
@@ -6903,7 +6682,7 @@
             "writers": [{
                 "name": "Steve Kloves",
                 "id": "nm0460141"
-            } {
+            },{
                 "name": "J.K. Rowling",
                 "id": "nm0746830"
             }],
@@ -6922,8 +6701,7 @@
             "votes": "568,621",
             "type": "Movie",
             "ranking": 222
-}
-{
+},{
             "title": "The Bourne Ultimatum",
             "originalTitle": "",
             "year": "2007",
@@ -6935,7 +6713,7 @@
             "writers": [{
                 "name": "Tony Gilroy",
                 "id": "nm0006904"
-            } {
+            },{
                 "name": "Scott Z. Burns",
                 "id": "nm1994243"
             }],
@@ -6954,8 +6732,7 @@
             "votes": "511,444",
             "type": "Movie",
             "ranking": 223
-}
-{
+},{
             "title": "Diabolique",
             "originalTitle": "Les diaboliques",
             "year": "1955",
@@ -6967,7 +6744,7 @@
             "writers": [{
                 "name": "Pierre Boileau",
                 "id": "nm0092267"
-            } {
+            },{
                 "name": "Thomas Narcejac",
                 "id": "nm0092268"
             }],
@@ -6985,8 +6762,7 @@
             "votes": "43,903",
             "type": "Movie",
             "ranking": 224
-}
-{
+},{
             "title": "Donnie Darko",
             "originalTitle": "",
             "year": "2001",
@@ -7014,8 +6790,7 @@
             "votes": "601,449",
             "type": "Movie",
             "ranking": 225
-}
-{
+},{
             "title": "Monsters, Inc.",
             "originalTitle": "",
             "year": "2001",
@@ -7023,14 +6798,14 @@
             "directors": [{
                 "name": "Pete Docter",
                 "id": "nm0230032"
-            } {
+            },{
                 "name": "David Silverman",
                 "id": "nm0798899"
             }],
             "writers": [{
                 "name": "Pete Docter",
                 "id": "nm0230032"
-            } {
+            },{
                 "name": "Jill Culton",
                 "id": "nm0191717"
             }],
@@ -7049,8 +6824,7 @@
             "votes": "611,921",
             "type": "Movie",
             "ranking": 226
-}
-{
+},{
             "title": "8½",
             "originalTitle": "",
             "year": "1963",
@@ -7062,7 +6836,7 @@
             "writers": [{
                 "name": "Federico Fellini",
                 "id": "nm0000019"
-            } {
+            },{
                 "name": "Ennio Flaiano",
                 "id": "nm0280919"
             }],
@@ -7080,8 +6854,7 @@
             "votes": "81,560",
             "type": "Movie",
             "ranking": 227
-}
-{
+},{
             "title": "Prisoners",
             "originalTitle": "",
             "year": "2013",
@@ -7109,8 +6882,7 @@
             "votes": "409,185",
             "type": "Movie",
             "ranking": 228
-}
-{
+},{
             "title": "The Terminator",
             "originalTitle": "",
             "year": "1984",
@@ -7122,7 +6894,7 @@
             "writers": [{
                 "name": "James Cameron",
                 "id": "nm0000116"
-            } {
+            },{
                 "name": "Gale Anne Hurd",
                 "id": "nm0005036"
             }],
@@ -7141,8 +6913,7 @@
             "votes": "622,185",
             "type": "Movie",
             "ranking": 229
-}
-{
+},{
             "title": "The Wizard of Oz",
             "originalTitle": "",
             "year": "1939",
@@ -7150,14 +6921,14 @@
             "directors": [{
                 "name": "Victor Fleming",
                 "id": "nm0281808"
-            } {
+            },{
                 "name": "George Cukor",
                 "id": "nm0002030"
             }],
             "writers": [{
                 "name": "Noel Langley",
                 "id": "nm0486538"
-            } {
+            },{
                 "name": "Florence Ryerson",
                 "id": "nm0753249"
             }],
@@ -7176,8 +6947,7 @@
             "votes": "301,688",
             "type": "Movie",
             "ranking": 230
-}
-{
+},{
             "title": "Zootopia",
             "originalTitle": "",
             "year": "2016",
@@ -7185,14 +6955,14 @@
             "directors": [{
                 "name": "Byron Howard",
                 "id": "nm0397174"
-            } {
+            },{
                 "name": "Rich Moore",
                 "id": "nm0601781"
             }],
             "writers": [{
                 "name": "Byron Howard",
                 "id": "nm0397174"
-            } {
+            },{
                 "name": "Rich Moore",
                 "id": "nm0601781"
             }],
@@ -7211,8 +6981,7 @@
             "votes": "248,893",
             "type": "Movie",
             "ranking": 231
-}
-{
+},{
             "title": "Udaan",
             "originalTitle": "",
             "year": "2010",
@@ -7224,7 +6993,7 @@
             "writers": [{
                 "name": "Vikramaditya Motwane",
                 "id": "nm0003939"
-            } {
+            },{
                 "name": "Anurag Kashyap",
                 "id": "nm0440604"
             }],
@@ -7242,8 +7011,7 @@
             "votes": "32,194",
             "type": "Movie",
             "ranking": 232
-}
-{
+},{
             "title": "Groundhog Day",
             "originalTitle": "",
             "year": "1993",
@@ -7255,7 +7023,7 @@
             "writers": [{
                 "name": "Danny Rubin",
                 "id": "nm0748035"
-            } {
+            },{
                 "name": "Harold Ramis",
                 "id": "nm0000601"
             }],
@@ -7274,8 +7042,7 @@
             "votes": "454,544",
             "type": "Movie",
             "ranking": 233
-}
-{
+},{
             "title": "Catch Me If You Can",
             "originalTitle": "",
             "year": "2002",
@@ -7287,7 +7054,7 @@
             "writers": [{
                 "name": "Jeff Nathanson",
                 "id": "nm0622288"
-            } {
+            },{
                 "name": "Frank Abagnale Jr.",
                 "id": "nm0007646"
             }],
@@ -7306,8 +7073,7 @@
             "votes": "558,439",
             "type": "Movie",
             "ranking": 234
-}
-{
+},{
             "title": "Twelve Monkeys",
             "originalTitle": "",
             "year": "1995",
@@ -7319,7 +7085,7 @@
             "writers": [{
                 "name": "Chris Marker",
                 "id": "nm0003408"
-            } {
+            },{
                 "name": "David Webb Peoples",
                 "id": "nm0672459"
             }],
@@ -7338,8 +7104,7 @@
             "votes": "477,835",
             "type": "Movie",
             "ranking": 235
-}
-{
+},{
             "title": "La Haine",
             "originalTitle": "La haine",
             "year": "1995",
@@ -7366,8 +7131,7 @@
             "votes": "108,202",
             "type": "Movie",
             "ranking": 236
-}
-{
+},{
             "title": "Jaws",
             "originalTitle": "",
             "year": "1975",
@@ -7379,7 +7143,7 @@
             "writers": [{
                 "name": "Peter Benchley",
                 "id": "nm0001940"
-            } {
+            },{
                 "name": "Carl Gottlieb",
                 "id": "nm0331956"
             }],
@@ -7398,8 +7162,7 @@
             "votes": "428,489",
             "type": "Movie",
             "ranking": 237
-}
-{
+},{
             "title": "Barry Lyndon",
             "originalTitle": "",
             "year": "1975",
@@ -7411,7 +7174,7 @@
             "writers": [{
                 "name": "Stanley Kubrick",
                 "id": "nm0000040"
-            } {
+            },{
                 "name": "William Makepeace Thackeray",
                 "id": "nm0856842"
             }],
@@ -7429,8 +7192,7 @@
             "votes": "105,828",
             "type": "Movie",
             "ranking": 238
-}
-{
+},{
             "title": "The Best Years of Our Lives",
             "originalTitle": "",
             "year": "1946",
@@ -7442,7 +7204,7 @@
             "writers": [{
                 "name": "Robert E. Sherwood",
                 "id": "nm0792845"
-            } {
+            },{
                 "name": "MacKinlay Kantor",
                 "id": "nm0437969"
             }],
@@ -7460,8 +7222,7 @@
             "votes": "41,799",
             "type": "Movie",
             "ranking": 239
-}
-{
+},{
             "title": "Infernal Affairs",
             "originalTitle": "Mou gaan dou",
             "year": "2002",
@@ -7469,14 +7230,14 @@
             "directors": [{
                 "name": "Wai-Keung Lau",
                 "id": "nm0490487"
-            } {
+            },{
                 "name": "Alan Mak",
                 "id": "nm0538320"
             }],
             "writers": [{
                 "name": "Alan Mak",
                 "id": "nm0538320"
-            } {
+            },{
                 "name": "Felix Chong",
                 "id": "nm0159039"
             }],
@@ -7495,8 +7256,7 @@
             "votes": "94,975",
             "type": "Movie",
             "ranking": 240
-}
-{
+},{
             "title": "Rogue One: A Star Wars Story",
             "originalTitle": "Rogue One",
             "year": "2016",
@@ -7508,7 +7268,7 @@
             "writers": [{
                 "name": "Chris Weitz",
                 "id": "nm0919363"
-            } {
+            },{
                 "name": "Tony Gilroy",
                 "id": "nm0006904"
             }],
@@ -7527,8 +7287,7 @@
             "votes": "215,498",
             "type": "Movie",
             "ranking": 241
-}
-{
+},{
             "title": "Chak de! India",
             "originalTitle": "Chak De! India",
             "year": "2007",
@@ -7540,7 +7299,7 @@
             "writers": [{
                 "name": "Jaideep Sahni",
                 "id": "nm1156290"
-            } {
+            },{
                 "name": "Jaideep Sahni",
                 "id": "nm1156290"
             }],
@@ -7559,8 +7318,7 @@
             "votes": "51,802",
             "type": "Movie",
             "ranking": 242
-}
-{
+},{
             "title": "Strangers on a Train",
             "originalTitle": "",
             "year": "1951",
@@ -7572,7 +7330,7 @@
             "writers": [{
                 "name": "Raymond Chandler",
                 "id": "nm0151452"
-            } {
+            },{
                 "name": "Czenzi Ormonde",
                 "id": "nm0650262"
             }],
@@ -7590,8 +7348,7 @@
             "votes": "100,270",
             "type": "Movie",
             "ranking": 243
-}
-{
+},{
             "title": "The Battle of Algiers",
             "originalTitle": "La battaglia di Algeri",
             "year": "1966",
@@ -7603,7 +7360,7 @@
             "writers": [{
                 "name": "Franco Solinas",
                 "id": "nm0758357"
-            } {
+            },{
                 "name": "Franco Solinas",
                 "id": "nm0758357"
             }],
@@ -7622,8 +7379,7 @@
             "votes": "39,200",
             "type": "Movie",
             "ranking": 244
-}
-{
+},{
             "title": "Dog Day Afternoon",
             "originalTitle": "",
             "year": "1975",
@@ -7635,7 +7391,7 @@
             "writers": [{
                 "name": "Frank Pierson",
                 "id": "nm0682757"
-            } {
+            },{
                 "name": "P.F. Kluge",
                 "id": "nm0460190"
             }],
@@ -7653,8 +7409,7 @@
             "votes": "188,777",
             "type": "Movie",
             "ranking": 245
-}
-{
+},{
             "title": "Sin City",
             "originalTitle": "",
             "year": "2005",
@@ -7662,7 +7417,7 @@
             "directors": [{
                 "name": "Frank Miller",
                 "id": "nm0588340"
-            } {
+            },{
                 "name": "Robert Rodriguez",
                 "id": "nm0001675"
             }],
@@ -7685,8 +7440,7 @@
             "votes": "673,515",
             "type": "Movie",
             "ranking": 246
-}
-{
+},{
             "title": "Kind Hearts and Coronets",
             "originalTitle": "",
             "year": "1949",
@@ -7698,7 +7452,7 @@
             "writers": [{
                 "name": "Roy Horniman",
                 "id": "nm0395170"
-            } {
+            },{
                 "name": "Robert Hamer",
                 "id": "nm0357607"
             }],
@@ -7716,8 +7470,7 @@
             "votes": "28,148",
             "type": "Movie",
             "ranking": 247
-}
-{
+},{
             "title": "The Help",
             "originalTitle": "",
             "year": "2011",
@@ -7729,7 +7482,7 @@
             "writers": [{
                 "name": "Tate Taylor",
                 "id": "nm0853238"
-            } {
+            },{
                 "name": "Kathryn Stockett",
                 "id": "nm3543826"
             }],
@@ -7748,8 +7501,7 @@
             "votes": "330,813",
             "type": "Movie",
             "ranking": 248
-}
-{
+},{
             "title": "The Imitation Game",
             "originalTitle": "",
             "year": "2014",
@@ -7761,7 +7513,7 @@
             "writers": [{
                 "name": "Graham Moore",
                 "id": "nm2441699"
-            } {
+            },{
                 "name": "Andrew Hodges",
                 "id": "nm0388132"
             }],
@@ -7780,8 +7532,7 @@
             "votes": "508,716",
             "type": "Movie",
             "ranking": 249
-}
-{
+},{
             "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
             "originalTitle": "",
             "year": "2003",
@@ -7793,7 +7544,7 @@
             "writers": [{
                 "name": "Ted Elliott",
                 "id": "nm0254645"
-            } {
+            },{
                 "name": "Terry Rossio",
                 "id": "nm0744429"
             }],
@@ -7812,4 +7563,4 @@
             "votes": "837,756",
             "type": "Movie",
             "ranking": 250
-}
+}]
