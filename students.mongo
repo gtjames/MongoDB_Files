@@ -169,18 +169,18 @@ db.students.aggregate( { $match: { name: "Agamemnon" } }
   
 db.students.aggregate( { $match: { name: "Agamemnon" } }
  , { $project: { _id:0, income:0, id:0, rank:0, year:0} }
- , { $unwind: "$courses" } )
+ , { $unwind: "$grades" } )
  
 db.students.aggregate( { $match: { name: "Agamemnon" } }
  , { $project: { _id:0, income:0, id:0, rank:0, year:0} }
- , { $unwind: "$courses" }
+ , { $unwind: "$grades" }
  , { $lookup: { from: "courses", localField: "courses", foreignField: "course", as: "courseName" } }
  , { $project: { courses:0, "courseName._id":0, "courseName.course":0 } } 
  )
  
 db.students.aggregate( { $match: { name: "Agamemnon" } }
  , { $project: { _id:0, income:0, id:0, rank:0, year:0} }
- , { $unwind: "$courses" }
+ , { $unwind: "$grades" }
  , { $lookup: { from: "courses", localField: "courses", foreignField: "course", as: "courseName" } }
  , { $project: { courses:0, "courseName._id":0, "courseName.course":0 } } 
  , { $unwind: "$grades" }
@@ -188,7 +188,7 @@ db.students.aggregate( { $match: { name: "Agamemnon" } }
 
 db.students.aggregate( { $match: { name: "Agamemnon" } }
  , { $project: { _id:0, income:0, id:0, rank:0, year:0} }
- , { $unwind: "$courses" }
+ , { $unwind: "$grades" }
  , { $lookup: { from: "courses", localField: "courses", foreignField: "course", as: "courseName" } }
  , { $project: { courses:0, "courseName._id":0, "courseName.course":0 } } 
  , { $unwind: "$grades" }
@@ -198,7 +198,7 @@ db.students.aggregate( { $match: { name: "Agamemnon" } }
  
 db.students.aggregate( { $match: { name: "Agamemnon" } }
  , { $project: { _id:0, income:0, id:0, rank:0, year:0} }
- , { $unwind: "$courses" }
+ , { $unwind: "$grades" }
  , { $lookup: { from: "courses", localField: "courses", foreignField: "course", as: "courseName" } }
  , { $project: { courses:0, "courseName._id":0, "courseName.course":0 } } 
  , { $unwind: "$grades" }
@@ -208,7 +208,7 @@ db.students.aggregate( { $match: { name: "Agamemnon" } }
  
 db.students.aggregate( { $match: { name: "Agamemnon" } }
  , { $project: { _id:0, income:0, id:0, rank:0, year:0} }
- , { $unwind: "$courses" }
+ , { $unwind: "$grades" }
  , { $lookup: { from: "courses", localField: "courses", foreignField: "course", as: "courseName" } }
  , { $project: { courses:0, "courseName._id":0, "courseName.course":0 } } 
  , { $unwind: "$grades" }
