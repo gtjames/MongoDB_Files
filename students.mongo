@@ -162,34 +162,48 @@ db.AB_Testing.insert({ "_id" : 9, "A" : [ ], "B" : [ "lo" ] })
 
 st = db.students
 
+// show the student record for Agamemnon
 db.students.aggregate( { $match: { name: "Agamemnon" } } )
  
+// hide some of the attributes
 db.students.aggregate( { $match: { name: "Agamemnon" } }
  , { $project: { _id:0, income:0, id:0, rank:0, year:0} } )
   
+// ‘unwind’ the grades column
 db.students.aggregate( { $match: { name: "Agamemnon" } }
  , { $project: { _id:0, income:0, id:0, rank:0, year:0} }
  , { $unwind: "$grades" } )
  
+// ‘unwind’ the enrolled column
 db.students.aggregate( { $match: { name: "Agamemnon" } }
  , { $project: { _id:0, income:0, id:0, rank:0, year:0} }
+ , { $unwind: "$enrolled" } )
+ 
+// what is the name of the course for which we have grades
+db.students.aggregate( { $match: { name: "Agamemnon" } }
+ , { $project: { _id:0, income:0, id:0, rank:0, year:0, enrolled:0} }
  , { $unwind: "$grades" }
- , { $lookup: { from: "courses", localField: "courses", foreignField: "course", as: "courseName" } }
+ , { $lookup: { from: "courses", localField: "grades.course", foreignField: "course", as: "courseName" } }
  , { $project: { courses:0, "courseName._id":0, "courseName.course":0 } } 
  )
  
+// what is the name of the course for which are enrolled
 db.students.aggregate( { $match: { name: "Agamemnon" } }
  , { $project: { _id:0, income:0, id:0, rank:0, year:0} }
- , { $unwind: "$grades" }
- , { $lookup: { from: "courses", localField: "courses", foreignField: "course", as: "courseName" } }
+, { $lookup: { from: "courses", localField: "enrolled", foreignField: "course", as: "courseName" } }
+ , { $project: { courses:0, "courseName._id":0, "grades":0 } } 
+ )
+ 
+db.students.aggregate( { $match: { name: "Agamemnon" } }
+ , { $project: { _id:0, income:0, id:0, rank:0, year:0, grades:0} }
+, { $lookup: { from: "courses", localField: "enrolled", foreignField: "course", as: "courseName" } }
  , { $project: { courses:0, "courseName._id":0, "courseName.course":0 } } 
- , { $unwind: "$grades" }
 )
 
 db.students.aggregate( { $match: { name: "Agamemnon" } }
  , { $project: { _id:0, income:0, id:0, rank:0, year:0} }
- , { $unwind: "$grades" }
- , { $lookup: { from: "courses", localField: "courses", foreignField: "course", as: "courseName" } }
+ , { $unwind: "$enrolled" }
+ , { $lookup: { from: "courses", localField: "enrolled", foreignField: "course", as: "courseName" } }
  , { $project: { courses:0, "courseName._id":0, "courseName.course":0 } } 
  , { $unwind: "$grades" }
  , { $lookup: { from: "courses", localField: "grades.course", foreignField: "course", as: "gradedCourseName" } }
@@ -198,8 +212,8 @@ db.students.aggregate( { $match: { name: "Agamemnon" } }
  
 db.students.aggregate( { $match: { name: "Agamemnon" } }
  , { $project: { _id:0, income:0, id:0, rank:0, year:0} }
- , { $unwind: "$grades" }
- , { $lookup: { from: "courses", localField: "courses", foreignField: "course", as: "courseName" } }
+ , { $unwind: "$enrolled" }
+ , { $lookup: { from: "courses", localField: "enrolled", foreignField: "course", as: "courseName" } }
  , { $project: { courses:0, "courseName._id":0, "courseName.course":0 } } 
  , { $unwind: "$grades" }
  , { $lookup: { from: "courses", localField: "grades.course", foreignField: "course", as: "gradedCourseName" } }
@@ -208,8 +222,8 @@ db.students.aggregate( { $match: { name: "Agamemnon" } }
  
 db.students.aggregate( { $match: { name: "Agamemnon" } }
  , { $project: { _id:0, income:0, id:0, rank:0, year:0} }
- , { $unwind: "$grades" }
- , { $lookup: { from: "courses", localField: "courses", foreignField: "course", as: "courseName" } }
+ , { $unwind: "$enrolled" }
+ , { $lookup: { from: "courses", localField: "enrolled", foreignField: "course", as: "courseName" } }
  , { $project: { courses:0, "courseName._id":0, "courseName.course":0 } } 
  , { $unwind: "$grades" }
  , { $lookup: { from: "courses", localField: "grades.course", foreignField: "course", as: "gradedCourseName" } }
@@ -222,7 +236,7 @@ db.students.aggregate( { $match: { name: "Agamemnon" } }
 db.students.aggregate ( [ { '$facet': {
  	  "Class":  [ { $bucketAuto: { groupBy: "$year",  buckets: 5, output: { "count": { $sum: 1 }, "students": { $push: "$name"                            }   } } } ]
 	, "Major":  [ { $bucketAuto: { groupBy: "$major", buckets: 7, output: { "count": { $sum: 1 }, "students": { $push: { "name": "$name", "year": "$year" } } } } } ]
-	, "Income": [ { $bucket:     { groupBy: "$income",boundaries: [  0, 20, 40, 60, 80 ],  default: "80K+",
+	, "Income": [ { $bucket:     { groupBy: "$income",boundaries: [  0, 20000, 40000, 60000, 80000 ],  default: "80K+",
 														  output: { "count": { $sum: 1 }, "students": { $push: { "Income": "$income", "Major": "$major"   } } } } } ]
                   } } ] )
 
